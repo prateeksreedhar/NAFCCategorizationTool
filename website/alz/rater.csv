@@ -1,0 +1,495 @@
+Problem/Soltuion,Number,# Category, Category
+Problem,1,1,Emotional and physical problems
+Problem,2,1,Emotional and physical problems
+Problem,3,6,Symptoms
+Problem,4,1,Emotional and physical problems
+Problem,5,1,Emotional and physical problems
+Problem,6,6,Symptoms
+Problem,7,1,Emotional and physical problems
+Solution,7.1,*,*
+Problem,8,1,Emotional and physical problems
+Solution,8.1,2,Informational Resources for Caregivers 
+Problem,9,1,Emotional and physical problems
+Solution,9.1,2,Informational Resources for Caregivers 
+Problem,10,1,Emotional and physical problems
+Solution,10.1,2,Informational Resources for Caregivers 
+Problem,11,1,Emotional and physical problems
+Solution,11.1,1,Contact Professional for Assistance
+Problem,12,1,Emotional and physical problems
+Solution,12.1,1,Contact Professional for Assistance
+Problem,13,1,Emotional and physical problems
+Solution,13.1,*,*
+Problem,14,1,Emotional and physical problems
+Solution,14.1,2,Informational Resources for Caregivers 
+Problem,15,1,Emotional and physical problems
+Solution,15.1,4,Patient's Well Being
+Problem,16,6,Symptoms
+Solution,16.1,2,Informational Resources for Caregivers 
+Problem,17,1,Emotional and physical problems
+Solution,17.1,8,Safety 
+Problem,18,*,*
+Solution,18.1,11,In Home Caregiving
+Problem,19,1,Emotional and physical problems
+Solution,19.1,2,Informational Resources for Caregivers 
+Problem,20,7,Physical safety
+Solution,20.1,2,Informational Resources for Caregivers 
+Problem,21,1,Emotional and physical problems
+Solution,21.1,14,Memory Problems from Patient
+Problem,22,4,Medicines 
+Solution,22.1,2,Informational Resources for Caregivers 
+Problem,23,1,Emotional and physical problems
+Solution,23.1,1,Contact Professional for Assistance
+Problem,24,4,Medicines 
+Solution,24.1,2,Informational Resources for Caregivers 
+Problem,25,1,Emotional and physical problems
+Solution,25.1,10,Assisted Care Facilities
+Problem,26,4,Medicines 
+Solution,26.1,2,Informational Resources for Caregivers 
+Problem,27,1,Emotional and physical problems
+Solution,27.1,7,Doctor Consultatations
+Problem,28,9,doctors and nursing homes
+Solution,28.1,2,Informational Resources for Caregivers 
+Problem,29,1,Emotional and physical problems
+Solution,29.1,2,Informational Resources for Caregivers 
+Problem,30,10,General information 
+Solution,30.1,2,Informational Resources for Caregivers 
+Problem,31,1,Emotional and physical problems
+Solution,31.1,2,Informational Resources for Caregivers 
+Problem,32,1,Emotional and physical problems
+Solution,32.1,2,Informational Resources for Caregivers 
+Problem,33,6,Symptoms
+Solution,33.1,2,Informational Resources for Caregivers 
+Problem,34,9,doctors and nursing homes
+Solution,34.1,2,Informational Resources for Caregivers 
+Problem,35,1,Emotional and physical problems
+Solution,35.1,3,Caregiver's Well Being
+Problem,36,1,Emotional and physical problems
+Solution,36.1,1,Contact Professional for Assistance
+Problem,37,1,Emotional and physical problems
+Solution,37.1,2,Informational Resources for Caregivers 
+Problem,38,1,Emotional and physical problems
+Solution,38.1,1,Contact Professional for Assistance
+Problem,39,6,Symptoms
+Problem,40,1,Emotional and physical problems
+Solution,40.1,1,Contact Professional for Assistance
+Problem,41,1,Emotional and physical problems
+Solution,41.1,2,Informational Resources for Caregivers 
+Problem,42,6,Symptoms
+Solution,42.1,6,Hallucinations
+Problem,43,3,Basic hygiene
+Solution,43.1,13,Bathing and Sanitation 
+Problem,44,1,Emotional and physical problems
+Solution,44.1,*,*
+Problem,45,1,Emotional and physical problems
+Solution,45.1,1,Contact Professional for Assistance
+Problem,46,1,Emotional and physical problems
+Solution,46.1,1,Contact Professional for Assistance
+Problem,47,1,Emotional and physical problems
+Solution,47.1,8,Safety 
+Problem,48,1,Emotional and physical problems
+Solution,48.1,7,Doctor Consultatations
+Problem,49,1,Emotional and physical problems
+Solution,49.1,13,Bathing and Sanitation 
+Problem,50,7,Physical safety
+Solution,50.1,2,Informational Resources for Caregivers 
+Problem,51,1,Emotional and physical problems
+Solution,51.1,*,*
+Problem,52,1,Emotional and physical problems
+Solution,52.1,10,Assisted Care Facilities
+Problem,53,1,Emotional and physical problems
+Solution,53.1,7,Doctor Consultatations
+Problem,54,1,Emotional and physical problems
+Solution,54.1,10,Assisted Care Facilities
+Problem,55,1,Emotional and physical problems
+Solution,55.1,*,*
+Problem,56,1,Emotional and physical problems
+Solution,56.1,14,Memory Problems from Patient
+Problem,57,2,Conflicts
+Problem,58,1,Emotional and physical problems
+Problem,59,7,Physical safety
+Solution,59.1,2,Informational Resources for Caregivers 
+Problem,60,1,Emotional and physical problems
+Solution,60.1,2,Informational Resources for Caregivers 
+Problem,61,1,Emotional and physical problems
+Solution,61.1,2,Informational Resources for Caregivers 
+Problem,62,1,Emotional and physical problems
+Solution,62.1,10,Assisted Care Facilities
+Problem,63,1,Emotional and physical problems
+Solution,63.1,3,Caregiver's Well Being
+Problem,64,3,Basic hygiene
+Solution,64.1,1,Contact Professional for Assistance
+Problem,65,1,Emotional and physical problems
+Solution,65.1,3,Caregiver's Well Being
+Problem,66,1,Emotional and physical problems
+Solution,66.1,2,Informational Resources for Caregivers 
+Problem,67,1,Emotional and physical problems
+Solution,67.1,2,Informational Resources for Caregivers 
+Problem,68,1,Emotional and physical problems
+Solution,68.1,15,Medication
+Problem,69,1,Emotional and physical problems
+Solution,69.1,5,Anxiety or Depression
+Problem,70,1,Emotional and physical problems
+Solution,70.1,8,Safety 
+Problem,71,1,Emotional and physical problems
+Solution,71.1,1,Contact Professional for Assistance
+Problem,72,1,Emotional and physical problems
+Solution,72.1,2,Informational Resources for Caregivers 
+Problem,73,1,Emotional and physical problems
+Solution,73.1,*,*
+Solution,73.2,*,*
+Problem,74,1,Emotional and physical problems
+Solution,74.1,10,Assisted Care Facilities
+Problem,75,6,Symptoms
+Solution,75.1,*,*
+Solution,75.2,2,Informational Resources for Caregivers 
+Problem,76,1,Emotional and physical problems
+Solution,76.1,10,Assisted Care Facilities
+Problem,77,*,*
+Solution,77.1,10,Assisted Care Facilities
+Problem,78,6,Symptoms
+Solution,78.1,8,Safety 
+Problem,79,6,Symptoms
+Solution,79.1,*,*
+Solution,79.2,2,Informational Resources for Caregivers 
+Problem,80,3,Basic hygiene
+Solution,80.1,3,Caregiver's Well Being
+Problem,81,1,Emotional and physical problems
+Solution,81.1,1,Contact Professional for Assistance
+Problem,82,5,Legal and financial 
+Solution,82.1,1,Contact Professional for Assistance
+Problem,83,3,Basic hygiene
+Solution,83.1,13,Bathing and Sanitation 
+Problem,84,10,General information 
+Solution,84.1,2,Informational Resources for Caregivers 
+Problem,85,1,Emotional and physical problems
+Solution,85.1,2,Informational Resources for Caregivers 
+Problem,86,4,Medicines 
+Solution,86.1,2,Informational Resources for Caregivers 
+Problem,87,5,Legal and financial 
+Solution,87.1,1,Contact Professional for Assistance
+Problem,88,1,Emotional and physical problems
+Solution,88.1,10,Assisted Care Facilities
+Problem,89,1,Emotional and physical problems
+Solution,89.1,*,*
+Problem,90,10,General information 
+Problem,91,1,Emotional and physical problems
+Solution,91.1,7,Doctor Consultatations
+Problem,92,1,Emotional and physical problems
+Solution,92.1,1,Contact Professional for Assistance
+Problem,93,9,doctors and nursing homes
+Problem,94,9,doctors and nursing homes
+Solution,94.1,1,Contact Professional for Assistance
+Problem,95,1,Emotional and physical problems
+Solution,95.1,2,Informational Resources for Caregivers 
+Problem,96,1,Emotional and physical problems
+Solution,96.1,2,Informational Resources for Caregivers 
+Problem,97,*,*
+Solution,97.1,2,Informational Resources for Caregivers 
+Problem,98,1,Emotional and physical problems
+Solution,98.1,*,*
+Solution,98.2,1,Contact Professional for Assistance
+Problem,99,11,Solutions
+Problem,100,6,Symptoms
+Solution,100.1,4,Patient's Well Being
+Problem,101,7,Physical safety
+Solution,101.1,8,Safety 
+Problem,102,6,Symptoms
+Solution,102.1,2,Informational Resources for Caregivers 
+Problem,103,1,Emotional and physical problems
+Solution,103.1,3,Caregiver's Well Being
+Problem,104,1,Emotional and physical problems
+Solution,104.1,2,Informational Resources for Caregivers 
+Problem,105,1,Emotional and physical problems
+Solution,105.1,2,Informational Resources for Caregivers 
+Problem,106,9,doctors and nursing homes
+Solution,106.1,7,Doctor Consultatations
+Problem,107,9,doctors and nursing homes
+Solution,107.1,1,Contact Professional for Assistance
+Problem,108,10,General information 
+Solution,108.1,1,Contact Professional for Assistance
+Problem,109,1,Emotional and physical problems
+Solution,109.1,15,Medication
+Problem,110,1,Emotional and physical problems
+Problem,111,7,Physical safety
+Solution,111.1,2,Informational Resources for Caregivers 
+Problem,112,1,Emotional and physical problems
+Solution,112.1,1,Contact Professional for Assistance
+Problem,113,9,doctors and nursing homes
+Solution,113.1,2,Informational Resources for Caregivers 
+Problem,114,1,Emotional and physical problems
+Solution,114.1,14,Memory Problems from Patient
+Problem,115,1,Emotional and physical problems
+Solution,115.1,2,Informational Resources for Caregivers 
+Problem,116,6,Symptoms
+Solution,116.1,1,Contact Professional for Assistance
+Problem,117,1,Emotional and physical problems
+Solution,117.1,2,Informational Resources for Caregivers 
+Problem,118,1,Emotional and physical problems
+Solution,118.1,2,Informational Resources for Caregivers 
+Problem,119,1,Emotional and physical problems
+Solution,119.1,2,Informational Resources for Caregivers 
+Problem,120,9,doctors and nursing homes
+Solution,120.1,1,Contact Professional for Assistance
+Problem,121,6,Symptoms
+Solution,121.1,2,Informational Resources for Caregivers 
+Problem,122,1,Emotional and physical problems
+Solution,122.1,14,Memory Problems from Patient
+Problem,123,7,Physical safety
+Solution,123.1,2,Informational Resources for Caregivers 
+Problem,124,9,doctors and nursing homes
+Solution,124.1,*,*
+Solution,124.2,1,Contact Professional for Assistance
+Problem,125,1,Emotional and physical problems
+Solution,125.1,1,Contact Professional for Assistance
+Problem,126,1,Emotional and physical problems
+Solution,126.1,15,Medication
+Problem,127,1,Emotional and physical problems
+Solution,127.1,2,Informational Resources for Caregivers 
+Problem,128,1,Emotional and physical problems
+Solution,128.1,2,Informational Resources for Caregivers 
+Problem,129,5,Legal and financial 
+Solution,129.1,1,Contact Professional for Assistance
+Problem,130,1,Emotional and physical problems
+Solution,130.1,*,*
+Solution,130.2,2,Informational Resources for Caregivers 
+Problem,131,1,Emotional and physical problems
+Solution,131.1,7,Doctor Consultatations
+Problem,132,1,Emotional and physical problems
+Solution,132.1,1,Contact Professional for Assistance
+Problem,133,9,doctors and nursing homes
+Solution,133.1,1,Contact Professional for Assistance
+Problem,134,1,Emotional and physical problems
+Solution,134.1,1,Contact Professional for Assistance
+Problem,135,1,Emotional and physical problems
+Solution,135.1,1,Contact Professional for Assistance
+Problem,136,7,Physical safety
+Solution,136.1,2,Informational Resources for Caregivers 
+Problem,137,1,Emotional and physical problems
+Solution,137.1,1,Contact Professional for Assistance
+Problem,138,1,Emotional and physical problems
+Problem,139,1,Emotional and physical problems
+Solution,139.1,2,Informational Resources for Caregivers 
+Problem,140,6,Symptoms
+Solution,140.1,14,Memory Problems from Patient
+Problem,141,1,Emotional and physical problems
+Solution,141.1,15,Medication
+Problem,142,6,Symptoms
+Solution,142.1,*,*
+Problem,143,1,Emotional and physical problems
+Solution,143.1,1,Contact Professional for Assistance
+Problem,144,9,doctors and nursing homes
+Solution,144.1,1,Contact Professional for Assistance
+Problem,145,10,General information 
+Solution,145.1,2,Informational Resources for Caregivers 
+Problem,146,5,Legal and financial 
+Solution,146.1,2,Informational Resources for Caregivers 
+Problem,147,1,Emotional and physical problems
+Solution,147.1,5,Anxiety or Depression
+Problem,148,1,Emotional and physical problems
+Solution,148.1,7,Doctor Consultatations
+Problem,149,1,Emotional and physical problems
+Solution,149.1,2,Informational Resources for Caregivers 
+Problem,150,1,Emotional and physical problems
+Solution,150.1,*,*
+Problem,151,1,Emotional and physical problems
+Solution,151.1,*,*
+Problem,152,1,Emotional and physical problems
+Problem,153,1,Emotional and physical problems
+Solution,153.1,2,Informational Resources for Caregivers 
+Problem,154,6,Symptoms
+Solution,154.1,2,Informational Resources for Caregivers 
+Problem,155,1,Emotional and physical problems
+Solution,155.1,2,Informational Resources for Caregivers 
+Problem,156,1,Emotional and physical problems
+Solution,156.1,14,Memory Problems from Patient
+Problem,157,7,Physical safety
+Solution,157.1,2,Informational Resources for Caregivers 
+Problem,158,9,doctors and nursing homes
+Solution,158.1,1,Contact Professional for Assistance
+Problem,159,6,Symptoms
+Solution,159.1,4,Patient's Well Being
+Problem,160,1,Emotional and physical problems
+Solution,160.1,2,Informational Resources for Caregivers 
+Problem,161,1,Emotional and physical problems
+Solution,161.1,*,*
+Solution,161.2,3,Caregiver's Well Being
+Problem,162,7,Physical safety
+Solution,162.1,8,Safety 
+Problem,163,1,Emotional and physical problems
+Solution,163.1,10,Assisted Care Facilities
+Problem,164,1,Emotional and physical problems
+Solution,164.1,1,Contact Professional for Assistance
+Problem,165,9,doctors and nursing homes
+Solution,165.1,1,Contact Professional for Assistance
+Problem,166,5,Legal and financial 
+Solution,166.1,1,Contact Professional for Assistance
+Problem,167,1,Emotional and physical problems
+Solution,167.1,7,Doctor Consultatations
+Problem,168,1,Emotional and physical problems
+Solution,168.1,2,Informational Resources for Caregivers 
+Problem,169,1,Emotional and physical problems
+Solution,169.1,14,Memory Problems from Patient
+Problem,170,1,Emotional and physical problems
+Solution,170.1,10,Assisted Care Facilities
+Problem,171,1,Emotional and physical problems
+Solution,171.1,1,Contact Professional for Assistance
+Problem,172,3,Basic hygiene
+Solution,172.1,2,Informational Resources for Caregivers 
+Problem,173,1,Emotional and physical problems
+Solution,173.1,2,Informational Resources for Caregivers 
+Problem,174,1,Emotional and physical problems
+Solution,174.1,1,Contact Professional for Assistance
+Problem,175,1,Emotional and physical problems
+Solution,175.1,10,Assisted Care Facilities
+Problem,176,6,Symptoms
+Solution,176.1,2,Informational Resources for Caregivers 
+Problem,177,1,Emotional and physical problems
+Solution,177.1,10,Assisted Care Facilities
+Problem,178,1,Emotional and physical problems
+Solution,178.1,7,Doctor Consultatations
+Problem,179,1,Emotional and physical problems
+Solution,179.1,2,Informational Resources for Caregivers 
+Problem,180,9,doctors and nursing homes
+Solution,180.1,1,Contact Professional for Assistance
+Problem,181,1,Emotional and physical problems
+Solution,181.1,1,Contact Professional for Assistance
+Problem,182,1,Emotional and physical problems
+Solution,182.1,2,Informational Resources for Caregivers 
+Problem,183,6,Symptoms
+Solution,183.1,7,Doctor Consultatations
+Problem,184,1,Emotional and physical problems
+Solution,184.1,1,Contact Professional for Assistance
+Problem,185,9,doctors and nursing homes
+Solution,185.1,10,Assisted Care Facilities
+Problem,186,6,Symptoms
+Solution,186.1,*,*
+Problem,187,1,Emotional and physical problems
+Solution,187.1,4,Patient's Well Being
+Problem,188,6,Symptoms
+Solution,188.1,1,Contact Professional for Assistance
+Problem,189,6,Symptoms
+Solution,189.1,2,Informational Resources for Caregivers 
+Problem,190,2,Conflicts
+Solution,190.1,2,Informational Resources for Caregivers 
+Problem,191,7,Physical safety
+Solution,191.1,8,Safety 
+Problem,192,6,Symptoms
+Solution,192.1,1,Contact Professional for Assistance
+Problem,193,6,Symptoms
+Solution,193.1,4,Patient's Well Being
+Problem,194,9,doctors and nursing homes
+Solution,194.1,2,Informational Resources for Caregivers 
+Problem,195,6,Symptoms
+Solution,195.1,2,Informational Resources for Caregivers 
+Problem,196,1,Emotional and physical problems
+Solution,196.1,7,Doctor Consultatations
+Problem,197,1,Emotional and physical problems
+Solution,197.1,2,Informational Resources for Caregivers 
+Problem,198,1,Emotional and physical problems
+Solution,198.1,2,Informational Resources for Caregivers 
+Problem,199,1,Emotional and physical problems
+Solution,199.1,2,Informational Resources for Caregivers 
+Problem,200,1,Emotional and physical problems
+Solution,200.1,2,Informational Resources for Caregivers 
+Problem,201,1,Emotional and physical problems
+Solution,201.1,*,*
+Solution,201.2,7,Doctor Consultatations
+Problem,202,10,General information 
+Solution,202.1,1,Contact Professional for Assistance
+Problem,203,1,Emotional and physical problems
+Solution,203.1,1,Contact Professional for Assistance
+Problem,204,1,Emotional and physical problems
+Solution,204.1,2,Informational Resources for Caregivers 
+Problem,205,3,Basic hygiene
+Solution,205.1,2,Informational Resources for Caregivers 
+Problem,206,1,Emotional and physical problems
+Solution,206.1,10,Assisted Care Facilities
+Problem,207,4,Medicines 
+Solution,207.1,15,Medication
+Problem,208,1,Emotional and physical problems
+Solution,208.1,10,Assisted Care Facilities
+Problem,209,9,doctors and nursing homes
+Solution,209.1,2,Informational Resources for Caregivers 
+Problem,210,1,Emotional and physical problems
+Solution,210.1,3,Caregiver's Well Being
+Problem,211,1,Emotional and physical problems
+Problem,212,3,Basic hygiene
+Solution,212.1,13,Bathing and Sanitation 
+Problem,213,4,Medicines 
+Solution,213.1,7,Doctor Consultatations
+Problem,214,1,Emotional and physical problems
+Solution,214.1,3,Caregiver's Well Being
+Problem,215,1,Emotional and physical problems
+Solution,215.1,2,Informational Resources for Caregivers 
+Problem,216,1,Emotional and physical problems
+Solution,216.1,1,Contact Professional for Assistance
+Problem,217,2,Conflicts
+Solution,217.1,2,Informational Resources for Caregivers 
+Problem,218,1,Emotional and physical problems
+Solution,218.1,2,Informational Resources for Caregivers 
+Problem,219,3,Basic hygiene
+Solution,219.1,1,Contact Professional for Assistance
+Problem,220,3,Basic hygiene
+Solution,220.1,*,*
+Solution,220.2,2,Informational Resources for Caregivers 
+Problem,221,10,General information 
+Solution,221.1,2,Informational Resources for Caregivers 
+Problem,222,5,Legal and financial 
+Solution,222.1,1,Contact Professional for Assistance
+Problem,223,1,Emotional and physical problems
+Solution,223.1,2,Informational Resources for Caregivers 
+Problem,224,6,Symptoms
+Solution,224.1,2,Informational Resources for Caregivers 
+Problem,225,6,Symptoms
+Solution,225.1,2,Informational Resources for Caregivers 
+Problem,226,1,Emotional and physical problems
+Solution,226.1,2,Informational Resources for Caregivers 
+Problem,227,1,Emotional and physical problems
+Solution,227.1,2,Informational Resources for Caregivers 
+Problem,228,1,Emotional and physical problems
+Solution,228.1,10,Assisted Care Facilities
+Problem,229,1,Emotional and physical problems
+Solution,229.1,2,Informational Resources for Caregivers 
+Problem,230,6,Symptoms
+Solution,230.1,15,Medication
+Problem,231,3,Basic hygiene
+Solution,231.1,13,Bathing and Sanitation 
+Problem,232,9,doctors and nursing homes
+Solution,232.1,1,Contact Professional for Assistance
+Problem,233,1,Emotional and physical problems
+Solution,233.1,2,Informational Resources for Caregivers 
+Problem,234,1,Emotional and physical problems
+Solution,234.1,*,*
+Problem,235,1,Emotional and physical problems
+Solution,235.1,1,Contact Professional for Assistance
+Problem,236,1,Emotional and physical problems
+Solution,236.1,2,Informational Resources for Caregivers 
+Problem,237,1,Emotional and physical problems
+Solution,237.1,*,*
+Solution,237.2,*,*
+Solution,237.3,10,Assisted Care Facilities
+Problem,238,7,Physical safety
+Solution,238.1,1,Contact Professional for Assistance
+Problem,239,1,Emotional and physical problems
+Solution,239.1,3,Caregiver's Well Being
+Problem,240,1,Emotional and physical problems
+Solution,240.1,2,Informational Resources for Caregivers 
+Problem,241,6,Symptoms
+Solution,241.1,2,Informational Resources for Caregivers 
+Problem,242,1,Emotional and physical problems
+Solution,242.1,7,Doctor Consultatations
+Problem,243,7,Physical safety
+Solution,243.1,*,*
+Problem,244,3,Basic hygiene
+Solution,244.1,2,Informational Resources for Caregivers 
+Problem,245,10,General information 
+Problem,246,1,Emotional and physical problems
+Solution,246.1,2,Informational Resources for Caregivers 
+Problem,247,6,Symptoms
+Solution,247.1,1,Contact Professional for Assistance
+Problem,248,4,Medicines 
+Solution,248.1,2,Informational Resources for Caregivers 
+Problem,249,7,Physical safety
+Solution,249.1,1,Contact Professional for Assistance
+Problem,250,3,Basic hygiene
+Solution,250.1,2,Informational Resources for Caregivers 

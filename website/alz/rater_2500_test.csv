@@ -1,0 +1,2306 @@
+Problem/Soltuion,Number,hkroger,snehal,eschare,# Category, Category
+Problem,1,1,0,1,10a,General Information
+Problem,2,1,0,1,2d,Conflicts
+Problem,3,1,1,1,6c,Symptoms
+Problem,4,*,*,*,*,*
+Problem,5,1,0,1,3d,Basic Hygiene
+Problem,6,*,*,*,*,*
+Problem,7,*,*,*,*,*
+Solution,7.1,1,1,0,2a,Info Sources
+Problem,8,1,1,1,6k,Symptoms
+Solution,8.1,1,1,1,2a,Info Sources
+Problem,9,1,0,1,6f,Symptoms
+Solution,9.1,1,0,1,2a,Info Sources
+Problem,10,1,1,1,7c,Physical Saftey
+Solution,10.1,1,1,0,7a,Safety
+Solution,10.2,1,0,1,7a,Safety
+Problem,11,1,1,1,5d,Legal Financial
+Solution,11.1,1,0,1,1a,Contact Professional For Assitance
+Problem,12,*,*,*,*,*
+Solution,12.1,*,*,*,*,*
+Problem,13,1,1,0,8g,Ethics
+Solution,13.1,*,*,*,*,*
+Problem,14,1,1,0,1b,Emotions of the Care Giver
+Solution,14.1,1,1,1,2a,Info Sources
+Problem,15,1,1,0,6f,Symptoms
+Solution,15.1,1,1,1,3a,Caregiver Wellbeing
+Solution,15.2,*,*,*,*,*
+Problem,16,1,1,1,6f,Symptoms
+Solution,16.1,1,1,1,2a,Info Sources
+Solution,16.2,*,*,*,*,*
+Problem,17,1,1,1,7a,Physical Saftey
+Solution,17.1,0,1,1,3a,Caregiver Wellbeing
+Solution,17.2,1,1,1,7a,Safety
+Problem,18,1,1,0,9e,Doctors and Nursing Homes
+Solution,18.1,0,1,1,8f,Home Care/Nursing Homes
+Problem,19,0,1,1,1a,Emotions of the Care Giver
+Solution,19.1,1,1,0,3a,Caregiver Wellbeing
+Solution,19.2,1,1,0,2a,Info Sources
+Problem,20,*,*,*,*,*
+Solution,20.1,1,1,1,2a,Info Sources
+Problem,21,1,1,1,6f,Symptoms
+Solution,21.1,0,1,1,4f,Strategies to handle the patient
+Problem,22,1,0,1,6g,Symptoms
+Solution,22.1,1,0,1,2a,Info Sources
+Problem,23,1,0,1,6k,Symptoms
+Solution,23.1,0,1,1,2a,Info Sources
+Problem,24,0,1,1,4b,Medicines
+Solution,24.1,1,0,1,2a,Info Sources
+Problem,25,1,1,1,9h,Doctors and Nursing Homes
+Solution,25.1,*,*,*,*,*
+Problem,26,1,0,1,6f,Symptoms
+Solution,26.1,1,1,1,5a,Doctor Consultations
+Problem,27,1,0,1,5e,Legal Financial
+Solution,27.1,*,*,*,*,*
+Solution,27.2,1,1,1,1a,Contact Professional For Assitance
+Problem,28,1,1,1,9c,Doctors and Nursing Homes
+Solution,28.1,1,1,1,2a,Info Sources
+Problem,29,1,1,0,6k,Symptoms
+Solution,29.1,0,1,1,7c,Safety
+Solution,29.2,*,*,*,*,*
+Problem,30,1,1,1,10a,General Information
+Solution,30.1,1,0,1,2a,Info Sources
+Problem,31,*,*,*,*,*
+Solution,31.1,1,1,0,3a,Caregiver Wellbeing
+Problem,32,1,1,1,4a,Medicines
+Solution,32.1,0,1,1,5e,Doctor Consultations
+Problem,33,1,1,1,6a,Symptoms
+Solution,33.1,1,1,1,2a,Info Sources
+Problem,34,1,1,0,9d,Doctors and Nursing Homes
+Solution,34.1,*,*,*,*,*
+Problem,35,0,1,1,1a,Emotions of the Care Giver
+Solution,35.1,1,1,1,3d,Caregiver Wellbeing
+Solution,35.2,0,1,1,3c,Caregiver Wellbeing
+Solution,35.3,1,0,1,2a,Info Sources
+Problem,36,1,0,1,5a,Legal Financial
+Solution,36.1,1,1,1,1d,Contact Professional For Assitance
+Problem,37,1,0,1,7d,Physical Saftey
+Solution,37.1,1,1,1,2a,Info Sources
+Problem,38,1,1,0,5d,Legal Financial
+Solution,38.1,1,1,1,1a,Contact Professional For Assitance
+Problem,39,*,*,*,*,*
+Problem,40,*,*,*,*,*
+Solution,40.1,1,1,1,3c,Caregiver Wellbeing
+Solution,40.2,1,1,1,3c,Caregiver Wellbeing
+Solution,40.3,0,1,1,1e,Contact Professional For Assitance
+Problem,41,1,1,1,5a,Legal Financial
+Solution,41.1,0,1,1,3a,Caregiver Wellbeing
+Problem,42,1,1,1,6f,Symptoms
+Solution,42.1,1,1,1,4b,Strategies to handle the patient
+Problem,43,0,1,1,3g,Basic Hygiene
+Solution,43.1,1,0,1,3c,Caregiver Wellbeing
+Solution,43.2,*,*,*,*,*
+Problem,44,*,*,*,*,*
+Solution,44.1,1,1,1,8b,Home Care/Nursing Homes
+Problem,45,1,1,1,3a,Basic Hygiene
+Solution,45.1,0,1,1,8c,Home Care/Nursing Homes
+Problem,46,1,0,1,7a,Physical Saftey
+Solution,46.1,*,*,*,*,*
+Problem,47,1,0,1,9h,Doctors and Nursing Homes
+Solution,47.1,1,0,1,3c,Caregiver Wellbeing
+Solution,47.2,1,1,0,4f,Strategies to handle the patient
+Problem,48,1,1,1,2d,Conflicts
+Solution,48.1,0,1,1,5b,Doctor Consultations
+Problem,49,1,0,1,3d,Basic Hygiene
+Solution,49.1,0,1,1,3a,Caregiver Wellbeing
+Solution,49.2,*,*,*,*,*
+Problem,50,1,0,1,7d,Physical Saftey
+Solution,50.1,*,*,*,*,*
+Solution,50.2,1,1,0,3c,Caregiver Wellbeing
+Problem,51,*,*,*,*,*
+Solution,51.1,1,1,0,3a,Caregiver Wellbeing
+Problem,52,*,*,*,*,*
+Solution,52.1,0,1,1,8b,Home Care/Nursing Homes
+Problem,53,*,*,*,*,*
+Solution,53.1,1,1,1,5a,Doctor Consultations
+Problem,54,1,1,1,2d,Conflicts
+Solution,54.1,1,0,1,3c,Caregiver Wellbeing
+Problem,55,1,1,1,8f,Ethics
+Solution,55.1,1,1,1,3c,Caregiver Wellbeing
+Problem,56,0,1,1,6f,Symptoms
+Solution,56.1,*,*,*,*,*
+Solution,56.2,1,1,1,3c,Caregiver Wellbeing
+Solution,56.3,*,*,*,*,*
+Problem,57,1,0,1,2a,Conflicts
+Problem,58,1,0,1,7h,Physical Saftey
+Problem,59,1,1,0,7h,Physical Saftey
+Solution,59.1,1,1,1,2a,Info Sources
+Problem,60,1,1,0,2c,Conflicts
+Solution,60.1,1,0,1,2a,Info Sources
+Solution,60.2,1,1,1,3c,Caregiver Wellbeing
+Problem,61,*,*,*,*,*
+Solution,61.1,1,1,0,3a,Caregiver Wellbeing
+Problem,62,1,1,1,9a,Doctors and Nursing Homes
+Solution,62.1,*,*,*,*,*
+Problem,63,1,0,1,6h,Symptoms
+Solution,63.1,1,0,1,3a,Caregiver Wellbeing
+Problem,64,*,*,*,*,*
+Solution,64.1,0,1,1,5a,Doctor Consultations
+Problem,65,*,*,*,*,*
+Solution,65.1,*,*,*,*,*
+Problem,66,1,1,0,6k,Symptoms
+Solution,66.1,1,1,1,2a,Info Sources
+Solution,66.2,1,1,0,3c,Caregiver Wellbeing
+Problem,67,1,1,0,6m,Symptoms
+Solution,67.1,1,0,1,2a,Info Sources
+Problem,68,1,1,1,6c,Symptoms
+Solution,68.1,1,1,0,3c,Caregiver Wellbeing
+Solution,68.2,1,1,1,3c,Caregiver Wellbeing
+Solution,68.3,1,1,0,3c,Caregiver Wellbeing
+Solution,68.4,1,0,1,2a,Info Sources
+Solution,68.5,1,1,1,3c,Caregiver Wellbeing
+Problem,69,1,0,1,3a,Basic Hygiene
+Solution,69.1,1,1,1,3c,Caregiver Wellbeing
+Solution,69.2,1,1,0,3c,Caregiver Wellbeing
+Solution,69.3,1,1,1,4a,Strategies to handle the patient
+Solution,69.4,*,*,*,*,*
+Problem,70,0,1,1,2d,Conflicts
+Solution,70.1,1,0,1,3a,Caregiver Wellbeing
+Solution,70.2,1,1,1,7a,Safety
+Solution,70.3,1,1,0,1f,Contact Professional For Assitance
+Solution,70.4,*,*,*,*,*
+Problem,71,1,1,0,2c,Conflicts
+Solution,71.1,0,1,1,4e,Strategies to handle the patient
+Problem,72,0,1,1,2d,Conflicts
+Solution,72.1,0,1,1,3d,Caregiver Wellbeing
+Solution,72.2,1,1,0,3c,Caregiver Wellbeing
+Solution,72.3,0,1,1,4d,Strategies to handle the patient
+Solution,72.4,*,*,*,*,*
+Problem,73,1,1,0,6n,Symptoms
+Solution,73.1,1,0,1,3a,Caregiver Wellbeing
+Solution,73.2,1,1,0,3a,Caregiver Wellbeing
+Problem,74,1,1,1,2a,Conflicts
+Solution,74.1,0,1,1,8e,Home Care/Nursing Homes
+Problem,75,1,1,1,6e,Symptoms
+Solution,75.1,1,1,1,3c,Caregiver Wellbeing
+Solution,75.2,1,0,1,2a,Info Sources
+Problem,76,*,*,*,*,*
+Solution,76.1,1,1,1,8b,Home Care/Nursing Homes
+Problem,77,0,1,1,2d,Conflicts
+Solution,77.1,1,0,1,8c,Home Care/Nursing Homes
+Problem,78,1,1,1,6n,Symptoms
+Solution,78.1,*,*,*,*,*
+Problem,79,1,0,1,6b,Symptoms
+Solution,79.1,1,1,0,3c,Caregiver Wellbeing
+Solution,79.2,1,1,1,2a,Info Sources
+Problem,80,1,1,1,3a,Basic Hygiene
+Solution,80.1,1,1,1,4a,Strategies to handle the patient
+Solution,80.2,1,1,0,2a,Info Sources
+Problem,81,*,*,*,*,*
+Solution,81.1,1,1,1,1a,Contact Professional For Assitance
+Problem,82,*,*,*,*,*
+Solution,82.1,1,1,1,1d,Contact Professional For Assitance
+Problem,83,1,1,1,6n,Symptoms
+Solution,83.1,1,1,0,3c,Caregiver Wellbeing
+Solution,83.2,1,1,1,3a,Caregiver Wellbeing
+Solution,83.3,1,1,1,2a,Info Sources
+Problem,84,1,1,0,10a,General Information
+Solution,84.1,1,1,1,2a,Info Sources
+Problem,85,1,1,1,9h,Doctors and Nursing Homes
+Solution,85.1,0,1,1,4b,Strategies to handle the patient
+Problem,86,1,1,1,4a,Medicines
+Solution,86.1,1,1,1,2a,Info Sources
+Problem,87,0,1,1,5e,Legal Financial
+Solution,87.1,1,0,1,1d,Contact Professional For Assitance
+Problem,88,1,1,0,9f,Doctors and Nursing Homes
+Solution,88.1,1,1,0,3a,Caregiver Wellbeing
+Problem,89,1,1,0,8f,Ethics
+Solution,89.1,1,1,1,3a,Caregiver Wellbeing
+Problem,90,*,*,*,*,*
+Problem,91,1,1,1,2d,Conflicts
+Solution,91.1,*,*,*,*,*
+Problem,92,0,1,1,2c,Conflicts
+Solution,92.1,*,*,*,*,*
+Problem,93,1,1,1,9a,Doctors and Nursing Homes
+Problem,94,1,1,1,9e,Doctors and Nursing Homes
+Solution,94.1,1,1,1,1c,Contact Professional For Assitance
+Problem,95,0,1,1,6f,Symptoms
+Solution,95.1,1,1,0,4f,Strategies to handle the patient
+Problem,96,*,*,*,*,*
+Solution,96.1,1,0,1,2a,Info Sources
+Problem,97,1,1,1,7d,Physical Saftey
+Solution,97.1,1,1,1,2a,Info Sources
+Problem,98,*,*,*,*,*
+Solution,98.1,1,1,0,3c,Caregiver Wellbeing
+Solution,98.2,1,1,1,1a,Contact Professional For Assitance
+Problem,99,1,1,0,11a,Solutions
+Problem,100,1,1,1,6c,Symptoms
+Solution,100.1,0,1,1,3c,Caregiver Wellbeing
+Solution,100.2,1,1,0,2a,Info Sources
+Problem,101,1,0,1,7c,Physical Saftey
+Solution,101.1,1,0,1,7a,Safety
+Solution,101.2,1,0,1,7a,Safety
+Problem,102,0,1,1,6l,Symptoms
+Solution,102.1,1,0,1,2a,Info Sources
+Problem,103,1,1,1,2a,Conflicts
+Solution,103.1,1,1,1,3a,Caregiver Wellbeing
+Solution,103.2,1,1,0,3a,Caregiver Wellbeing
+Solution,103.3,1,1,0,3a,Caregiver Wellbeing
+Problem,104,1,1,1,2d,Conflicts
+Solution,104.1,*,*,*,*,*
+Problem,105,1,1,1,2d,Conflicts
+Solution,105.1,1,1,1,2a,Info Sources
+Problem,106,0,1,1,9g,Doctors and Nursing Homes
+Solution,106.1,*,*,*,*,*
+Problem,107,1,1,1,9a,Doctors and Nursing Homes
+Solution,107.1,1,1,1,1a,Contact Professional For Assitance
+Problem,108,1,0,1,10Other,General Information
+Solution,108.1,0,1,1,2a,Info Sources
+Problem,109,*,*,*,*,*
+Solution,109.1,*,*,*,*,*
+Solution,109.2,1,1,1,5a,Doctor Consultations
+Problem,110,1,0,1,7c,Physical Saftey
+Problem,111,1,1,1,6k,Symptoms
+Solution,111.1,1,1,1,2a,Info Sources
+Solution,111.2,1,1,1,2a,Info Sources
+Problem,112,*,*,*,*,*
+Solution,112.1,1,1,1,1a,Contact Professional For Assitance
+Problem,113,*,*,*,*,*
+Solution,113.1,*,*,*,*,*
+Problem,114,1,1,1,6f,Symptoms
+Solution,114.1,1,1,1,4f,Strategies to handle the patient
+Problem,115,*,*,*,*,*
+Solution,115.1,*,*,*,*,*
+Problem,116,1,1,0,6c,Symptoms
+Solution,116.1,1,0,1,1a,Contact Professional For Assitance
+Problem,117,1,1,1,6f,Symptoms
+Solution,117.1,0,1,1,3b,Caregiver Wellbeing
+Problem,118,*,*,*,*,*
+Solution,118.1,1,1,1,2a,Info Sources
+Solution,118.2,*,*,*,*,*
+Problem,119,*,*,*,*,*
+Solution,119.1,*,*,*,*,*
+Problem,120,1,0,1,9e,Doctors and Nursing Homes
+Solution,120.1,1,1,1,1a,Contact Professional For Assitance
+Problem,121,*,*,*,*,*
+Solution,121.1,1,1,1,2a,Info Sources
+Problem,122,1,1,0,6f,Symptoms
+Solution,122.1,1,1,0,4d,Strategies to handle the patient
+Solution,122.2,1,0,1,2a,Info Sources
+Problem,123,1,1,1,7d,Physical Saftey
+Solution,123.1,*,*,*,*,*
+Problem,124,0,1,1,9e,Doctors and Nursing Homes
+Solution,124.1,0,1,1,3a,Caregiver Wellbeing
+Solution,124.2,1,1,1,1c,Contact Professional For Assitance
+Problem,125,1,1,0,5e,Legal Financial
+Solution,125.1,1,1,1,1d,Contact Professional For Assitance
+Problem,126,1,1,1,4b,Medicines
+Solution,126.1,1,1,0,3c,Caregiver Wellbeing
+Solution,126.2,1,1,0,3c,Caregiver Wellbeing
+Solution,126.3,1,1,0,3c,Caregiver Wellbeing
+Solution,126.4,1,1,0,3c,Caregiver Wellbeing
+Solution,126.5,1,1,1,5a,Doctor Consultations
+Problem,127,1,1,0,6f,Symptoms
+Solution,127.1,*,*,*,*,*
+Problem,128,*,*,*,*,*
+Solution,128.1,1,1,1,2a,Info Sources
+Problem,129,1,1,0,5e,Legal Financial
+Solution,129.1,1,1,1,3c,Caregiver Wellbeing
+Solution,129.2,1,0,1,1d,Contact Professional For Assitance
+Problem,130,1,1,1,2d,Conflicts
+Solution,130.1,*,*,*,*,*
+Solution,130.2,0,1,1,4b,Strategies to handle the patient
+Problem,131,0,1,1,6a,Symptoms
+Solution,131.1,0,1,1,5d,Doctor Consultations
+Solution,131.2,0,1,1,4b,Strategies to handle the patient
+Problem,132,*,*,*,*,*
+Solution,132.1,1,1,1,8c,Home Care/Nursing Homes
+Solution,132.2,0,1,1,1e,Contact Professional For Assitance
+Problem,133,*,*,*,*,*
+Solution,133.1,1,0,1,3a,Caregiver Wellbeing
+Solution,133.2,0,1,1,1c,Contact Professional For Assitance
+Problem,134,*,*,*,*,*
+Solution,134.1,*,*,*,*,*
+Problem,135,1,1,0,5a,Legal Financial
+Solution,135.1,1,0,1,1a,Contact Professional For Assitance
+Problem,136,1,1,1,7d,Physical Saftey
+Solution,136.1,1,1,1,2a,Info Sources
+Problem,137,1,1,1,1a,Emotions of the Care Giver
+Solution,137.1,1,1,1,1d,Contact Professional For Assitance
+Solution,137.2,*,*,*,*,*
+Problem,138,1,0,1,2d,Conflicts
+Problem,139,0,1,1,6a,Symptoms
+Solution,139.1,1,0,1,2a,Info Sources
+Solution,139.2,*,*,*,*,*
+Problem,140,0,1,1,6f,Symptoms
+Solution,140.1,*,*,*,*,*
+Problem,141,1,1,1,6d,Symptoms
+Solution,141.1,*,*,*,*,*
+Solution,141.2,1,1,1,2a,Info Sources
+Problem,142,*,*,*,*,*
+Solution,142.1,1,1,1,3a,Caregiver Wellbeing
+Problem,143,0,1,1,1c,Emotions of the Care Giver
+Solution,143.1,1,1,0,3a,Caregiver Wellbeing
+Problem,144,1,1,1,9a,Doctors and Nursing Homes
+Solution,144.1,1,0,1,1a,Contact Professional For Assitance
+Problem,145,1,0,1,10a,General Information
+Solution,145.1,1,1,1,2a,Info Sources
+Problem,146,1,0,1,9e,Doctors and Nursing Homes
+Solution,146.1,0,1,1,3a,Caregiver Wellbeing
+Problem,147,1,0,1,6j,Symptoms
+Solution,147.1,*,*,*,*,*
+Solution,147.2,1,1,1,4b,Strategies to handle the patient
+Problem,148,1,1,0,6e,Symptoms
+Solution,148.1,1,1,1,5a,Doctor Consultations
+Problem,149,1,0,1,6n,Symptoms
+Solution,149.1,*,*,*,*,*
+Problem,150,1,1,0,9h,Doctors and Nursing Homes
+Solution,150.1,0,1,1,4d,Strategies to handle the patient
+Problem,151,1,0,1,6k,Symptoms
+Solution,151.1,1,1,0,3a,Caregiver Wellbeing
+Problem,152,1,0,1,3g,Basic Hygiene
+Problem,153,1,1,1,6h,Symptoms
+Solution,153.1,1,1,1,3a,Caregiver Wellbeing
+Problem,154,1,1,1,6e,Symptoms
+Solution,154.1,1,1,0,2a,Info Sources
+Problem,155,1,0,1,6k,Symptoms
+Solution,155.1,1,1,1,4b,Strategies to handle the patient
+Problem,156,0,1,1,8c,Ethics
+Solution,156.1,*,*,*,*,*
+Solution,156.2,1,1,0,4d,Strategies to handle the patient
+Problem,157,1,1,1,7a,Physical Saftey
+Solution,157.1,1,1,1,7a,Safety
+Problem,158,1,1,1,9a,Doctors and Nursing Homes
+Solution,158.1,1,1,1,1c,Contact Professional For Assitance
+Problem,159,1,1,0,6g,Symptoms
+Solution,159.1,1,1,1,3a,Caregiver Wellbeing
+Solution,159.2,1,1,0,3a,Caregiver Wellbeing
+Problem,160,1,1,0,7h,Physical Saftey
+Solution,160.1,1,1,1,2a,Info Sources
+Problem,161,*,*,*,*,*
+Solution,161.1,1,1,1,3c,Caregiver Wellbeing
+Solution,161.2,1,1,0,3c,Caregiver Wellbeing
+Problem,162,1,1,1,7h,Physical Saftey
+Solution,162.1,0,1,1,7c,Safety
+Solution,162.2,0,1,1,7b,Safety
+Problem,163,*,*,*,*,*
+Solution,163.1,*,*,*,*,*
+Problem,164,0,1,1,1b,Emotions of the Care Giver
+Solution,164.1,1,0,1,1a,Contact Professional For Assitance
+Problem,165,1,1,1,9e,Doctors and Nursing Homes
+Solution,165.1,0,1,1,1c,Contact Professional For Assitance
+Problem,166,1,1,1,5d,Legal Financial
+Solution,166.1,1,1,1,1c,Contact Professional For Assitance
+Problem,167,*,*,*,*,*
+Solution,167.1,1,1,1,5a,Doctor Consultations
+Problem,168,1,0,1,6f,Symptoms
+Solution,168.1,1,1,1,2a,Info Sources
+Problem,169,*,*,*,*,*
+Solution,169.1,0,1,1,4d,Strategies to handle the patient
+Problem,170,1,0,1,2a,Conflicts
+Solution,170.1,1,1,0,8b,Home Care/Nursing Homes
+Problem,171,1,1,1,9h,Doctors and Nursing Homes
+Solution,171.1,1,1,0,3a,Caregiver Wellbeing
+Problem,172,1,1,1,3b,Basic Hygiene
+Solution,172.1,1,1,1,3a,Caregiver Wellbeing
+Problem,173,1,0,1,2a,Conflicts
+Solution,173.1,*,*,*,*,*
+Solution,173.2,*,*,*,*,*
+Problem,174,1,1,0,9a,Doctors and Nursing Homes
+Solution,174.1,*,*,*,*,*
+Problem,175,*,*,*,*,*
+Solution,175.1,1,0,1,8a,Home Care/Nursing Homes
+Solution,175.2,1,1,1,8c,Home Care/Nursing Homes
+Problem,176,1,1,0,6f,Symptoms
+Solution,176.1,1,1,1,4b,Strategies to handle the patient
+Problem,177,0,1,1,2d,Conflicts
+Solution,177.1,1,1,0,3a,Caregiver Wellbeing
+Solution,177.2,*,*,*,*,*
+Problem,178,1,0,1,10a,General Information
+Solution,178.1,1,0,1,5b,Doctor Consultations
+Solution,178.2,*,*,*,*,*
+Problem,179,1,1,0,2d,Conflicts
+Solution,179.1,0,1,1,8e,Home Care/Nursing Homes
+Problem,180,1,1,1,9e,Doctors and Nursing Homes
+Solution,180.1,*,*,*,*,*
+Problem,181,1,1,1,7a,Physical Saftey
+Solution,181.1,*,*,*,*,*
+Problem,182,1,1,0,7b,Physical Saftey
+Solution,182.1,1,1,0,7a,Safety
+Solution,182.2,0,1,1,3a,Caregiver Wellbeing
+Problem,183,1,1,1,6e,Symptoms
+Solution,183.1,1,1,1,5e,Doctor Consultations
+Problem,184,1,1,1,3b,Basic Hygiene
+Solution,184.1,1,1,1,1a,Contact Professional For Assitance
+Problem,185,*,*,*,*,*
+Solution,185.1,0,1,1,3b,Caregiver Wellbeing
+Solution,185.2,*,*,*,*,*
+Problem,186,1,1,1,6c,Symptoms
+Solution,186.1,0,1,1,6a,Medication
+Problem,187,1,1,0,4a,Medicines
+Solution,187.1,1,0,1,3a,Caregiver Wellbeing
+Problem,188,1,1,1,6c,Symptoms
+Solution,188.1,1,0,1,1a,Contact Professional For Assitance
+Problem,189,1,1,1,6o,Symptoms
+Solution,189.1,1,0,1,2a,Info Sources
+Problem,190,1,1,1,2d,Conflicts
+Solution,190.1,1,0,1,3a,Caregiver Wellbeing
+Problem,191,1,1,1,7g,Physical Saftey
+Solution,191.1,*,*,*,*,*
+Solution,191.2,1,0,1,3a,Caregiver Wellbeing
+Problem,192,1,1,1,6a,Symptoms
+Solution,192.1,1,1,0,2a,Info Sources
+Problem,193,1,1,1,6c,Symptoms
+Solution,193.1,0,1,1,3c,Caregiver Wellbeing
+Solution,193.2,1,0,1,3a,Caregiver Wellbeing
+Problem,194,1,1,1,9a,Doctors and Nursing Homes
+Solution,194.1,1,1,1,2a,Info Sources
+Problem,195,1,1,0,6a,Symptoms
+Solution,195.1,1,1,1,2a,Info Sources
+Problem,196,1,1,0,6k,Symptoms
+Solution,196.1,1,1,1,3c,Caregiver Wellbeing
+Solution,196.2,*,*,*,*,*
+Problem,197,1,0,1,9a,Doctors and Nursing Homes
+Solution,197.1,0,1,1,8a,Home Care/Nursing Homes
+Problem,198,*,*,*,*,*
+Solution,198.1,1,0,1,3d,Caregiver Wellbeing
+Solution,198.2,0,1,1,3d,Caregiver Wellbeing
+Problem,199,1,0,1,9b,Doctors and Nursing Homes
+Solution,199.1,*,*,*,*,*
+Problem,200,1,1,0,9h,Doctors and Nursing Homes
+Solution,200.1,*,*,*,*,*
+Problem,201,1,0,1,4b,Medicines
+Solution,201.1,1,0,1,5a,Doctor Consultations
+Solution,201.2,0,1,1,8e,Home Care/Nursing Homes
+Problem,202,*,*,*,*,*
+Solution,202.1,1,1,1,1a,Contact Professional For Assitance
+Problem,203,*,*,*,*,*
+Solution,203.1,1,1,1,2a,Info Sources
+Problem,204,1,0,1,1b,Emotions of the Care Giver
+Solution,204.1,1,1,1,2a,Info Sources
+Problem,205,1,1,0,3a,Basic Hygiene
+Solution,205.1,*,*,*,*,*
+Problem,206,0,1,1,1a,Emotions of the Care Giver
+Solution,206.1,*,*,*,*,*
+Problem,207,1,0,1,4a,Medicines
+Solution,207.1,1,1,0,3a,Caregiver Wellbeing
+Problem,208,1,1,1,9a,Doctors and Nursing Homes
+Solution,208.1,0,1,1,8e,Home Care/Nursing Homes
+Problem,209,1,1,1,9a,Doctors and Nursing Homes
+Solution,209.1,*,*,*,*,*
+Problem,210,1,0,1,1d,Emotions of the Care Giver
+Solution,210.1,1,1,1,3d,Caregiver Wellbeing
+Problem,211,1,1,1,7e,Physical Saftey
+Problem,212,1,1,0,3c,Basic Hygiene
+Solution,212.1,1,0,1,9c,Personal Care
+Solution,212.2,0,1,1,9c,Personal Care
+Problem,213,1,1,1,4a,Medicines
+Solution,213.1,1,0,1,5a,Doctor Consultations
+Problem,214,1,1,1,2c,Conflicts
+Solution,214.1,1,1,1,4a,Strategies to handle the patient
+Problem,215,*,*,*,*,*
+Solution,215.1,1,1,1,2a,Info Sources
+Solution,215.2,*,*,*,*,*
+Problem,216,1,1,0,2c,Conflicts
+Solution,216.1,*,*,*,*,*
+Problem,217,1,0,1,9h,Doctors and Nursing Homes
+Solution,217.1,1,0,1,8c,Home Care/Nursing Homes
+Problem,218,*,*,*,*,*
+Solution,218.1,0,1,1,2a,Info Sources
+Problem,219,1,1,1,9e,Doctors and Nursing Homes
+Solution,219.1,1,0,1,1c,Contact Professional For Assitance
+Problem,220,1,1,1,3a,Basic Hygiene
+Solution,220.1,*,*,*,*,*
+Solution,220.2,1,1,1,2a,Info Sources
+Problem,221,1,1,1,10a,General Information
+Solution,221.1,1,1,1,2a,Info Sources
+Solution,221.2,1,1,1,2a,Info Sources
+Problem,222,0,1,1,2a,Conflicts
+Solution,222.1,0,1,1,1d,Contact Professional For Assitance
+Problem,223,*,*,*,*,*
+Solution,223.1,0,1,1,5a,Doctor Consultations
+Problem,224,0,1,1,6a,Symptoms
+Solution,224.1,1,1,1,2a,Info Sources
+Problem,225,1,1,1,6f,Symptoms
+Solution,225.1,1,0,1,2a,Info Sources
+Problem,226,*,*,*,*,*
+Solution,226.1,1,1,1,4b,Strategies to handle the patient
+Solution,226.2,1,0,1,3a,Caregiver Wellbeing
+Solution,226.3,1,1,1,2a,Info Sources
+Problem,227,*,*,*,*,*
+Solution,227.1,0,1,1,3a,Caregiver Wellbeing
+Problem,228,1,0,1,9c,Doctors and Nursing Homes
+Solution,228.1,0,1,1,8b,Home Care/Nursing Homes
+Problem,229,1,0,1,3a,Basic Hygiene
+Solution,229.1,1,1,1,2a,Info Sources
+Problem,230,1,1,1,6c,Symptoms
+Solution,230.1,1,1,1,3c,Caregiver Wellbeing
+Solution,230.2,1,1,1,3a,Caregiver Wellbeing
+Problem,231,1,0,1,3a,Basic Hygiene
+Solution,231.1,1,1,1,9b,Personal Care
+Problem,232,0,1,1,9e,Doctors and Nursing Homes
+Solution,232.1,*,*,*,*,*
+Problem,233,1,1,1,7c,Physical Saftey
+Solution,233.1,1,0,1,7a,Safety
+Problem,234,*,*,*,*,*
+Solution,234.1,1,1,0,3c,Caregiver Wellbeing
+Problem,235,1,0,1,9a,Doctors and Nursing Homes
+Solution,235.1,1,1,1,1a,Contact Professional For Assitance
+Problem,236,*,*,*,*,*
+Solution,236.1,*,*,*,*,*
+Problem,237,*,*,*,*,*
+Solution,237.1,1,1,1,3b,Caregiver Wellbeing
+Solution,237.2,1,0,1,3b,Caregiver Wellbeing
+Solution,237.3,1,1,0,3a,Caregiver Wellbeing
+Problem,238,1,1,0,7h,Physical Saftey
+Solution,238.1,1,1,1,2a,Info Sources
+Problem,239,1,1,0,2d,Conflicts
+Solution,239.1,1,1,1,3c,Caregiver Wellbeing
+Solution,239.2,1,1,1,1a,Contact Professional For Assitance
+Solution,239.3,1,1,0,3a,Caregiver Wellbeing
+Problem,240,*,*,*,*,*
+Solution,240.1,1,0,1,2a,Info Sources
+Problem,241,1,1,1,6a,Symptoms
+Solution,241.1,1,1,1,2a,Info Sources
+Problem,242,*,*,*,*,*
+Solution,242.1,1,1,1,3a,Caregiver Wellbeing
+Solution,242.2,1,0,1,2a,Info Sources
+Problem,243,1,1,1,7g,Physical Saftey
+Solution,243.1,*,*,*,*,*
+Problem,244,1,1,0,3a,Basic Hygiene
+Solution,244.1,*,*,*,*,*
+Problem,245,*,*,*,*,*
+Problem,246,1,1,0,4b,Medicines
+Solution,246.1,1,1,1,2a,Info Sources
+Problem,247,0,1,1,6e,Symptoms
+Solution,247.1,*,*,*,*,*
+Problem,248,1,1,1,4b,Medicines
+Solution,248.1,1,1,1,2a,Info Sources
+Problem,249,1,1,1,7d,Physical Saftey
+Solution,249.1,1,1,1,1a,Contact Professional For Assitance
+Problem,250,*,*,*,*,*
+Solution,250.1,*,*,*,*,*
+Problem,251,*,*,*,*,*
+Problem,252,1,1,1,2d,Conflicts
+Solution,252.1,1,1,0,3a,Caregiver Wellbeing
+Problem,253,1,1,1,9e,Doctors and Nursing Homes
+Solution,253.1,1,1,1,1f,Contact Professional For Assitance
+Solution,253.2,1,1,1,1f,Contact Professional For Assitance
+Problem,254,*,*,*,*,*
+Solution,254.1,1,1,0,8c,Home Care/Nursing Homes
+Solution,254.2,1,0,1,2a,Info Sources
+Solution,254.3,1,1,1,3d,Caregiver Wellbeing
+Problem,255,1,0,1,1a,Emotions of the Care Giver
+Problem,256,1,1,1,2d,Conflicts
+Solution,256.1,1,0,1,2a,Info Sources
+Problem,257,1,1,1,10a,General Information
+Solution,257.1,1,0,1,5b,Doctor Consultations
+Problem,258,*,*,*,*,*
+Solution,258.1,1,1,1,4f,Strategies to handle the patient
+Problem,259,1,0,1,6n,Symptoms
+Problem,260,1,1,0,10a,General Information
+Solution,260.1,0,1,1,1a,Contact Professional For Assitance
+Problem,261,1,1,0,5h,Legal Financial
+Solution,261.1,1,1,0,3a,Caregiver Wellbeing
+Problem,262,1,0,1,5g,Legal Financial
+Solution,262.1,1,1,1,1d,Contact Professional For Assitance
+Solution,262.2,1,1,1,1d,Contact Professional For Assitance
+Solution,262.3,*,*,*,*,*
+Problem,263,1,0,1,6g,Symptoms
+Solution,263.1,1,1,1,3a,Caregiver Wellbeing
+Problem,264,*,*,*,*,*
+Solution,264.1,1,0,1,3a,Caregiver Wellbeing
+Solution,264.2,1,1,1,3c,Caregiver Wellbeing
+Solution,264.3,1,1,0,3c,Caregiver Wellbeing
+Problem,265,1,1,1,8c,Ethics
+Solution,265.1,1,0,1,2a,Info Sources
+Problem,266,1,1,1,5g,Legal Financial
+Solution,266.1,1,1,1,1d,Contact Professional For Assitance
+Problem,267,1,1,1,7h,Physical Saftey
+Solution,267.1,1,0,1,3c,Caregiver Wellbeing
+Solution,267.2,1,1,0,2a,Info Sources
+Problem,268,1,0,1,4a,Medicines
+Solution,268.1,*,*,*,*,*
+Solution,268.2,*,*,*,*,*
+Solution,268.3,*,*,*,*,*
+Problem,269,1,0,1,6b,Symptoms
+Solution,269.1,1,1,1,3c,Caregiver Wellbeing
+Solution,269.2,1,1,1,2a,Info Sources
+Solution,269.3,1,1,0,3c,Caregiver Wellbeing
+Problem,270,*,*,*,*,*
+Solution,270.1,*,*,*,*,*
+Solution,270.2,1,0,1,4d,Strategies to handle the patient
+Solution,270.3,0,1,1,8c,Home Care/Nursing Homes
+Problem,271,1,0,1,6b,Symptoms
+Solution,271.1,1,1,0,7a,Safety
+Problem,272,1,1,1,6b,Symptoms
+Solution,272.1,*,*,*,*,*
+Problem,273,1,1,1,5g,Legal Financial
+Solution,273.1,1,1,1,1d,Contact Professional For Assitance
+Problem,274,1,1,1,6c,Symptoms
+Solution,274.1,0,1,1,5a,Doctor Consultations
+Problem,275,1,0,1,9e,Doctors and Nursing Homes
+Solution,275.1,0,1,1,1a,Contact Professional For Assitance
+Problem,276,1,1,1,6j,Symptoms
+Solution,276.1,1,0,1,4c,Strategies to handle the patient
+Solution,276.2,1,0,1,4c,Strategies to handle the patient
+Problem,277,1,1,0,6f,Symptoms
+Solution,277.1,1,1,1,3c,Caregiver Wellbeing
+Solution,277.2,*,*,*,*,*
+Problem,278,1,1,1,3a,Basic Hygiene
+Solution,278.1,1,1,1,2a,Info Sources
+Problem,279,1,1,0,8i,Ethics
+Solution,279.1,*,*,*,*,*
+Problem,280,1,1,0,4a,Medicines
+Solution,280.1,1,0,1,2a,Info Sources
+Problem,281,0,1,1,1a,Emotions of the Care Giver
+Solution,281.1,1,1,1,3c,Caregiver Wellbeing
+Solution,281.2,0,1,1,5e,Doctor Consultations
+Problem,282,1,0,1,9e,Doctors and Nursing Homes
+Solution,282.1,1,1,0,2a,Info Sources
+Solution,282.2,1,0,1,8f,Home Care/Nursing Homes
+Problem,283,1,1,0,2a,Conflicts
+Solution,283.1,1,1,0,3a,Caregiver Wellbeing
+Solution,283.2,1,1,0,4f,Strategies to handle the patient
+Solution,283.3,1,1,1,3a,Caregiver Wellbeing
+Solution,283.4,1,1,1,3a,Caregiver Wellbeing
+Problem,284,1,1,1,6b,Symptoms
+Solution,284.1,1,0,1,2a,Info Sources
+Problem,285,1,1,0,10a,General Information
+Solution,285.1,1,1,0,5a,Doctor Consultations
+Problem,286,*,*,*,*,*
+Solution,286.1,1,0,1,8f,Home Care/Nursing Homes
+Problem,287,*,*,*,*,*
+Solution,287.1,*,*,*,*,*
+Problem,288,*,*,*,*,*
+Solution,288.1,0,1,1,5e,Doctor Consultations
+Problem,289,*,*,*,*,*
+Solution,289.1,1,1,1,1c,Contact Professional For Assitance
+Problem,290,*,*,*,*,*
+Solution,290.1,1,1,1,2a,Info Sources
+Problem,291,0,1,1,1b,Emotions of the Care Giver
+Solution,291.1,1,1,1,2a,Info Sources
+Problem,292,*,*,*,*,*
+Solution,292.1,1,1,1,3a,Caregiver Wellbeing
+Problem,293,1,1,0,9a,Doctors and Nursing Homes
+Solution,293.1,1,0,1,5e,Doctor Consultations
+Problem,294,*,*,*,*,*
+Solution,294.1,*,*,*,*,*
+Solution,294.2,0,1,1,3a,Caregiver Wellbeing
+Problem,295,1,0,1,3d,Basic Hygiene
+Solution,295.1,0,1,1,3a,Caregiver Wellbeing
+Solution,295.2,1,1,1,3c,Caregiver Wellbeing
+Problem,296,*,*,*,*,*
+Solution,296.1,1,1,0,3c,Caregiver Wellbeing
+Solution,296.2,1,1,1,3a,Caregiver Wellbeing
+Problem,297,1,1,1,7c,Physical Saftey
+Solution,297.1,*,*,*,*,*
+Solution,297.2,*,*,*,*,*
+Problem,298,*,*,*,*,*
+Solution,298.1,1,0,1,3c,Caregiver Wellbeing
+Solution,298.2,*,*,*,*,*
+Problem,299,1,1,0,9a,Doctors and Nursing Homes
+Solution,299.1,0,1,1,2a,Info Sources
+Solution,299.2,1,1,1,1c,Contact Professional For Assitance
+Solution,299.3,1,1,1,1c,Contact Professional For Assitance
+Problem,300,1,1,1,9a,Doctors and Nursing Homes
+Solution,300.1,1,0,1,1a,Contact Professional For Assitance
+Solution,300.2,1,1,1,1a,Contact Professional For Assitance
+Problem,301,1,1,1,6e,Symptoms
+Solution,301.1,1,1,1,3a,Caregiver Wellbeing
+Problem,302,1,1,1,6e,Symptoms
+Solution,302.1,1,1,0,3a,Caregiver Wellbeing
+Problem,303,*,*,*,*,*
+Solution,303.1,1,1,1,2a,Info Sources
+Solution,303.2,0,1,1,4b,Strategies to handle the patient
+Problem,304,*,*,*,*,*
+Solution,304.1,1,1,0,3a,Caregiver Wellbeing
+Solution,304.2,1,1,1,1c,Contact Professional For Assitance
+Problem,305,*,*,*,*,*
+Solution,305.1,*,*,*,*,*
+Solution,305.2,1,1,1,2a,Info Sources
+Solution,305.3,1,1,0,5a,Doctor Consultations
+Problem,306,1,1,0,6k,Symptoms
+Solution,306.1,1,1,1,3a,Caregiver Wellbeing
+Solution,306.2,1,0,1,2a,Info Sources
+Solution,306.3,1,1,0,3a,Caregiver Wellbeing
+Problem,307,1,1,0,6g,Symptoms
+Solution,307.1,1,1,0,4d,Strategies to handle the patient
+Problem,308,0,1,1,1a,Emotions of the Care Giver
+Solution,308.1,1,1,1,1c,Contact Professional For Assitance
+Solution,308.2,0,1,1,3a,Caregiver Wellbeing
+Problem,309,1,0,1,3d,Basic Hygiene
+Solution,309.1,1,0,1,3a,Caregiver Wellbeing
+Solution,309.2,0,1,1,3a,Caregiver Wellbeing
+Problem,310,1,1,1,5a,Legal Financial
+Solution,310.1,1,0,1,3a,Caregiver Wellbeing
+Solution,310.2,1,1,0,3a,Caregiver Wellbeing
+Solution,310.3,1,0,1,1e,Contact Professional For Assitance
+Problem,311,*,*,*,*,*
+Solution,311.1,1,1,1,2a,Info Sources
+Solution,311.2,1,1,0,1f,Contact Professional For Assitance
+Problem,312,1,1,0,4b,Medicines
+Solution,312.1,1,1,1,2a,Info Sources
+Problem,313,1,1,1,10a,General Information
+Solution,313.1,1,1,0,3a,Caregiver Wellbeing
+Problem,314,1,1,1,5c,Legal Financial
+Solution,314.1,0,1,1,1c,Contact Professional For Assitance
+Problem,315,*,*,*,*,*
+Solution,315.1,1,0,1,2a,Info Sources
+Solution,315.2,1,1,1,3c,Caregiver Wellbeing
+Problem,316,1,1,0,1a,Emotions of the Care Giver
+Solution,316.1,1,1,0,3c,Caregiver Wellbeing
+Solution,316.2,*,*,*,*,*
+Problem,317,1,1,1,6c,Symptoms
+Solution,317.1,0,1,1,3c,Caregiver Wellbeing
+Solution,317.2,1,1,0,5a,Doctor Consultations
+Problem,318,1,0,1,6f,Symptoms
+Solution,318.1,1,1,1,2a,Info Sources
+Solution,318.2,*,*,*,*,*
+Problem,319,1,0,1,6k,Symptoms
+Solution,319.1,1,0,1,2a,Info Sources
+Problem,320,1,1,1,9h,Doctors and Nursing Homes
+Solution,320.1,1,1,0,3a,Caregiver Wellbeing
+Problem,321,1,1,1,10a,General Information
+Solution,321.1,0,1,1,2a,Info Sources
+Solution,321.2,1,0,1,5b,Doctor Consultations
+Problem,322,1,1,1,7h,Physical Saftey
+Solution,322.1,0,1,1,1f,Contact Professional For Assitance
+Solution,322.2,*,*,*,*,*
+Problem,323,0,1,1,2d,Conflicts
+Solution,323.1,1,1,0,2a,Info Sources
+Problem,324,*,*,*,*,*
+Solution,324.1,1,1,0,3a,Caregiver Wellbeing
+Problem,325,1,1,0,2d,Conflicts
+Solution,325.1,1,1,1,1c,Contact Professional For Assitance
+Solution,325.2,1,0,1,1c,Contact Professional For Assitance
+Problem,326,1,0,1,6b,Symptoms
+Solution,326.1,1,1,1,2a,Info Sources
+Solution,326.2,1,1,1,3c,Caregiver Wellbeing
+Problem,327,*,*,*,*,*
+Solution,327.1,*,*,*,*,*
+Solution,327.2,1,1,1,2a,Info Sources
+Solution,327.3,1,1,1,2a,Info Sources
+Problem,328,*,*,*,*,*
+Solution,328.1,1,1,1,3c,Caregiver Wellbeing
+Solution,328.2,1,1,1,3a,Caregiver Wellbeing
+Solution,328.3,*,*,*,*,*
+Problem,329,1,1,0,10a,General Information
+Solution,329.1,0,1,1,5b,Doctor Consultations
+Solution,329.2,1,1,1,2a,Info Sources
+Problem,330,1,0,1,2d,Conflicts
+Solution,330.1,0,1,1,7b,Safety
+Solution,330.2,1,1,0,1c,Contact Professional For Assitance
+Solution,330.3,1,1,0,3a,Caregiver Wellbeing
+Problem,331,1,1,1,10a,General Information
+Solution,331.1,1,0,1,2a,Info Sources
+Problem,332,1,0,1,6b,Symptoms
+Solution,332.1,*,*,*,*,*
+Problem,333,1,1,0,2c,Conflicts
+Solution,333.1,1,1,0,1e,Contact Professional For Assitance
+Problem,334,1,1,1,7a,Physical Saftey
+Solution,334.1,1,1,0,1c,Contact Professional For Assitance
+Problem,335,1,0,1,10a,General Information
+Problem,336,1,0,1,6b,Symptoms
+Solution,336.1,1,1,1,2a,Info Sources
+Problem,337,1,1,0,7h,Physical Saftey
+Solution,337.1,1,1,1,2a,Info Sources
+Problem,338,1,1,1,2d,Conflicts
+Solution,338.1,*,*,*,*,*
+Solution,338.2,1,0,1,1c,Contact Professional For Assitance
+Problem,339,1,1,1,6e,Symptoms
+Solution,339.1,0,1,1,3c,Caregiver Wellbeing
+Solution,339.2,1,1,1,2a,Info Sources
+Problem,340,0,1,1,9a,Doctors and Nursing Homes
+Solution,340.1,*,*,*,*,*
+Problem,341,0,1,1,9a,Doctors and Nursing Homes
+Solution,341.1,1,1,0,3a,Caregiver Wellbeing
+Problem,342,1,1,1,6k,Symptoms
+Solution,342.1,*,*,*,*,*
+Solution,342.2,1,1,1,2a,Info Sources
+Problem,343,*,*,*,*,*
+Solution,343.1,1,1,1,2a,Info Sources
+Problem,344,1,1,1,5e,Legal Financial
+Solution,344.1,1,1,0,3a,Caregiver Wellbeing
+Problem,345,0,1,1,6n,Symptoms
+Solution,345.1,*,*,*,*,*
+Problem,346,*,*,*,*,*
+Solution,346.1,1,1,0,4b,Strategies to handle the patient
+Problem,347,1,1,1,3a,Basic Hygiene
+Solution,347.1,1,0,1,3a,Caregiver Wellbeing
+Problem,348,1,1,1,10a,General Information
+Solution,348.1,1,1,1,2a,Info Sources
+Solution,348.2,1,1,1,2a,Info Sources
+Problem,349,1,1,1,10a,General Information
+Solution,349.1,1,1,1,2a,Info Sources
+Problem,350,*,*,*,*,*
+Solution,350.1,1,1,1,1d,Contact Professional For Assitance
+Solution,350.2,0,1,1,1e,Contact Professional For Assitance
+Problem,351,1,1,0,8g,Ethics
+Solution,351.1,1,1,1,2a,Info Sources
+Problem,352,0,1,1,10a,General Information
+Solution,352.1,1,0,1,3a,Caregiver Wellbeing
+Problem,353,*,*,*,*,*
+Solution,353.1,*,*,*,*,*
+Solution,353.2,1,1,0,7a,Safety
+Problem,354,*,*,*,*,*
+Solution,354.1,1,1,1,3c,Caregiver Wellbeing
+Solution,354.2,*,*,*,*,*
+Solution,354.3,1,1,1,2a,Info Sources
+Problem,355,*,*,*,*,*
+Solution,355.1,1,1,1,1a,Contact Professional For Assitance
+Problem,356,1,0,1,7d,Physical Saftey
+Solution,356.1,*,*,*,*,*
+Problem,357,1,1,0,9b,Doctors and Nursing Homes
+Solution,357.1,1,1,0,3a,Caregiver Wellbeing
+Solution,357.2,*,*,*,*,*
+Problem,358,1,1,1,6g,Symptoms
+Solution,358.1,*,*,*,*,*
+Solution,358.2,*,*,*,*,*
+Solution,358.3,*,*,*,*,*
+Solution,358.4,1,0,1,4f,Strategies to handle the patient
+Solution,358.5,1,0,1,4f,Strategies to handle the patient
+Problem,359,1,1,1,1a,Emotions of the Care Giver
+Solution,359.1,1,1,1,2a,Info Sources
+Solution,359.2,1,1,1,3d,Caregiver Wellbeing
+Problem,360,1,0,1,6b,Symptoms
+Solution,360.1,0,1,1,6c,Medication
+Solution,360.2,1,1,1,1a,Contact Professional For Assitance
+Problem,361,*,*,*,*,*
+Solution,361.1,1,0,1,1a,Contact Professional For Assitance
+Problem,362,*,*,*,*,*
+Solution,362.1,0,1,1,1a,Contact Professional For Assitance
+Problem,363,1,1,1,1d,Emotions of the Care Giver
+Solution,363.1,*,*,*,*,*
+Solution,363.2,0,1,1,3d,Caregiver Wellbeing
+Solution,363.3,1,1,1,3d,Caregiver Wellbeing
+Problem,364,*,*,*,*,*
+Solution,364.1,0,1,1,3b,Caregiver Wellbeing
+Solution,364.2,1,0,1,3c,Caregiver Wellbeing
+Solution,364.3,*,*,*,*,*
+Problem,365,1,1,1,5e,Legal Financial
+Solution,365.1,*,*,*,*,*
+Solution,365.2,1,1,0,1d,Contact Professional For Assitance
+Problem,366,1,1,0,1a,Emotions of the Care Giver
+Solution,366.1,1,1,1,1a,Contact Professional For Assitance
+Problem,367,1,0,1,6d,Symptoms
+Solution,367.1,1,1,0,5a,Doctor Consultations
+Problem,368,1,0,1,6l,Symptoms
+Solution,368.1,*,*,*,*,*
+Solution,368.2,1,1,1,3c,Caregiver Wellbeing
+Solution,368.3,*,*,*,*,*
+Problem,369,*,*,*,*,*
+Solution,369.1,1,1,1,2a,Info Sources
+Solution,369.2,1,0,1,5a,Doctor Consultations
+Problem,370,1,1,1,1a,Emotions of the Care Giver
+Solution,370.1,1,0,1,1a,Contact Professional For Assitance
+Solution,370.2,1,1,0,3a,Caregiver Wellbeing
+Solution,370.3,0,1,1,8c,Home Care/Nursing Homes
+Problem,371,*,*,*,*,*
+Solution,371.1,1,1,1,3a,Caregiver Wellbeing
+Problem,372,1,1,1,3b,Basic Hygiene
+Solution,372.1,1,1,0,3c,Caregiver Wellbeing
+Problem,373,*,*,*,*,*
+Solution,373.1,1,1,0,3a,Caregiver Wellbeing
+Solution,373.2,1,1,0,3a,Caregiver Wellbeing
+Problem,374,1,1,1,6i,Symptoms
+Problem,375,0,1,1,2d,Conflicts
+Solution,375.1,1,1,1,8f,Home Care/Nursing Homes
+Solution,375.2,1,0,1,2a,Info Sources
+Problem,376,1,0,1,7d,Physical Saftey
+Solution,376.1,*,*,*,*,*
+Problem,377,1,1,1,3c,Basic Hygiene
+Solution,377.1,1,1,1,2a,Info Sources
+Problem,378,1,1,1,5a,Legal Financial
+Solution,378.1,1,1,1,1f,Contact Professional For Assitance
+Solution,378.2,0,1,1,3a,Caregiver Wellbeing
+Problem,379,1,1,1,5a,Legal Financial
+Problem,380,1,1,1,6a,Symptoms
+Solution,380.1,1,1,1,3c,Caregiver Wellbeing
+Solution,380.2,*,*,*,*,*
+Solution,380.3,1,1,1,2a,Info Sources
+Problem,381,1,1,1,6g,Symptoms
+Solution,381.1,*,*,*,*,*
+Problem,382,*,*,*,*,*
+Solution,382.1,1,1,0,4d,Strategies to handle the patient
+Problem,383,1,1,1,6n,Symptoms
+Solution,383.1,1,1,1,2a,Info Sources
+Solution,383.2,1,1,1,2a,Info Sources
+Problem,384,1,1,0,6h,Symptoms
+Solution,384.1,1,1,1,5a,Doctor Consultations
+Solution,384.2,1,1,0,5a,Doctor Consultations
+Problem,385,1,1,1,4a,Medicines
+Solution,385.1,1,1,1,3a,Caregiver Wellbeing
+Problem,386,1,0,1,6f,Symptoms
+Solution,386.1,1,0,1,4f,Strategies to handle the patient
+Solution,386.2,*,*,*,*,*
+Problem,387,1,1,1,9h,Doctors and Nursing Homes
+Solution,387.1,1,1,0,3a,Caregiver Wellbeing
+Solution,387.2,*,*,*,*,*
+Problem,388,*,*,*,*,*
+Solution,388.1,1,0,1,4a,Strategies to handle the patient
+Problem,389,0,1,1,1a,Emotions of the Care Giver
+Solution,389.1,*,*,*,*,*
+Solution,389.2,1,1,1,2a,Info Sources
+Solution,389.3,1,0,1,2a,Info Sources
+Problem,390,*,*,*,*,*
+Solution,390.1,1,1,0,3a,Caregiver Wellbeing
+Solution,390.2,1,1,0,3b,Caregiver Wellbeing
+Problem,391,1,0,1,6n,Symptoms
+Solution,391.1,1,0,1,2a,Info Sources
+Problem,392,1,1,1,6b,Symptoms
+Solution,392.1,1,0,1,5a,Doctor Consultations
+Solution,392.2,1,1,1,2a,Info Sources
+Problem,393,*,*,*,*,*
+Solution,393.1,1,1,0,5a,Doctor Consultations
+Solution,393.2,1,1,1,2a,Info Sources
+Problem,394,1,0,1,6j,Symptoms
+Solution,394.1,1,1,0,8a,Home Care/Nursing Homes
+Problem,395,1,1,0,9c,Doctors and Nursing Homes
+Solution,395.1,*,*,*,*,*
+Problem,396,0,1,1,1d,Emotions of the Care Giver
+Solution,396.1,1,0,1,3a,Caregiver Wellbeing
+Solution,396.2,*,*,*,*,*
+Problem,397,*,*,*,*,*
+Problem,398,0,1,1,2b,Conflicts
+Solution,398.1,0,1,1,3a,Caregiver Wellbeing
+Solution,398.2,1,0,1,3a,Caregiver Wellbeing
+Problem,399,1,1,1,9a,Doctors and Nursing Homes
+Solution,399.1,1,1,1,1c,Contact Professional For Assitance
+Problem,400,1,0,1,3a,Basic Hygiene
+Solution,400.1,1,1,1,4a,Strategies to handle the patient
+Solution,400.2,*,*,*,*,*
+Problem,401,1,1,1,3b,Basic Hygiene
+Solution,401.1,1,1,1,3a,Caregiver Wellbeing
+Solution,401.2,*,*,*,*,*
+Solution,401.3,1,1,1,3a,Caregiver Wellbeing
+Problem,402,1,1,1,5c,Legal Financial
+Solution,402.1,1,1,1,2a,Info Sources
+Problem,403,1,1,1,7c,Physical Saftey
+Solution,403.1,1,1,1,5a,Doctor Consultations
+Solution,403.2,1,1,0,1d,Contact Professional For Assitance
+Problem,404,0,1,1,3f,Basic Hygiene
+Solution,404.1,1,1,1,2a,Info Sources
+Solution,404.2,*,*,*,*,*
+Problem,405,0,1,1,3f,Basic Hygiene
+Solution,405.1,1,0,1,3a,Caregiver Wellbeing
+Problem,406,1,1,0,3d,Basic Hygiene
+Solution,406.1,1,0,1,5a,Doctor Consultations
+Problem,407,1,1,1,6f,Symptoms
+Solution,407.1,1,1,0,4b,Strategies to handle the patient
+Solution,407.2,1,1,1,5a,Doctor Consultations
+Problem,408,1,0,1,3a,Basic Hygiene
+Solution,408.1,0,1,1,9d,Personal Care
+Problem,409,1,1,1,3c,Basic Hygiene
+Solution,409.1,1,1,0,3d,Caregiver Wellbeing
+Solution,409.2,1,1,1,5a,Doctor Consultations
+Problem,410,*,*,*,*,*
+Solution,410.1,1,0,1,5a,Doctor Consultations
+Solution,410.2,1,1,1,2a,Info Sources
+Problem,411,1,1,0,6a,Symptoms
+Solution,411.1,1,1,1,3c,Caregiver Wellbeing
+Solution,411.2,0,1,1,5d,Doctor Consultations
+Solution,411.3,0,1,1,5e,Doctor Consultations
+Problem,412,*,*,*,*,*
+Solution,412.1,*,*,*,*,*
+Problem,413,0,1,1,3d,Basic Hygiene
+Solution,413.1,1,1,1,2a,Info Sources
+Problem,414,1,1,1,7a,Physical Saftey
+Solution,414.1,1,1,0,3c,Caregiver Wellbeing
+Solution,414.2,1,1,1,7a,Safety
+Solution,414.3,1,1,1,7a,Safety
+Problem,415,1,1,0,6h,Symptoms
+Solution,415.1,1,1,0,5a,Doctor Consultations
+Solution,415.2,1,1,1,3a,Caregiver Wellbeing
+Problem,416,1,0,1,3a,Basic Hygiene
+Solution,416.1,*,*,*,*,*
+Solution,416.2,1,1,0,9a,Personal Care
+Solution,416.3,1,1,1,2a,Info Sources
+Problem,417,1,1,1,10a,General Information
+Solution,417.1,1,1,1,3a,Caregiver Wellbeing
+Solution,417.2,0,1,1,5b,Doctor Consultations
+Problem,418,*,*,*,*,*
+Solution,418.1,1,1,1,3c,Caregiver Wellbeing
+Solution,418.2,1,1,1,3a,Caregiver Wellbeing
+Problem,419,1,1,1,9f,Doctors and Nursing Homes
+Solution,419.1,1,1,0,8e,Home Care/Nursing Homes
+Problem,420,1,0,1,2a,Conflicts
+Solution,420.1,1,1,1,3a,Caregiver Wellbeing
+Solution,420.2,1,0,1,3a,Caregiver Wellbeing
+Problem,421,1,1,1,6b,Symptoms
+Solution,421.1,1,1,1,7a,Safety
+Solution,421.2,*,*,*,*,*
+Solution,421.3,1,1,0,2a,Info Sources
+Problem,422,1,1,0,3d,Basic Hygiene
+Solution,422.1,1,0,1,3c,Caregiver Wellbeing
+Solution,422.2,0,1,1,9c,Personal Care
+Solution,422.3,1,0,1,5a,Doctor Consultations
+Problem,423,0,1,1,6h,Symptoms
+Solution,423.1,1,1,1,4a,Strategies to handle the patient
+Solution,423.2,1,1,1,2a,Info Sources
+Solution,423.3,1,1,1,3a,Caregiver Wellbeing
+Problem,424,1,1,0,5h,Legal Financial
+Solution,424.1,1,1,1,3a,Caregiver Wellbeing
+Solution,424.2,1,1,0,3a,Caregiver Wellbeing
+Solution,424.3,1,1,1,3a,Caregiver Wellbeing
+Problem,425,*,*,*,*,*
+Solution,425.1,1,0,1,1a,Contact Professional For Assitance
+Solution,425.2,1,1,1,2a,Info Sources
+Problem,426,1,1,1,6k,Symptoms
+Solution,426.1,1,1,0,5a,Doctor Consultations
+Solution,426.2,*,*,*,*,*
+Solution,426.3,1,1,0,8f,Home Care/Nursing Homes
+Problem,427,1,1,0,5c,Legal Financial
+Solution,427.1,1,1,1,3a,Caregiver Wellbeing
+Solution,427.2,1,1,1,1a,Contact Professional For Assitance
+Problem,428,1,1,1,6a,Symptoms
+Solution,428.1,*,*,*,*,*
+Solution,428.2,1,1,1,5a,Doctor Consultations
+Problem,429,*,*,*,*,*
+Solution,429.1,0,1,1,3c,Caregiver Wellbeing
+Solution,429.2,*,*,*,*,*
+Solution,429.3,1,0,1,2a,Info Sources
+Problem,430,*,*,*,*,*
+Solution,430.1,1,0,1,3a,Caregiver Wellbeing
+Solution,430.2,*,*,*,*,*
+Solution,430.3,*,*,*,*,*
+Problem,431,*,*,*,*,*
+Solution,431.1,1,1,1,3a,Caregiver Wellbeing
+Solution,431.2,1,0,1,2a,Info Sources
+Problem,432,1,0,1,3g,Basic Hygiene
+Solution,432.1,1,1,1,2a,Info Sources
+Problem,433,1,1,1,7c,Physical Saftey
+Solution,433.1,1,1,1,3c,Caregiver Wellbeing
+Solution,433.2,1,1,0,5a,Doctor Consultations
+Solution,433.3,*,*,*,*,*
+Problem,434,1,0,1,10a,General Information
+Solution,434.1,1,1,0,3c,Caregiver Wellbeing
+Solution,434.2,1,1,1,2a,Info Sources
+Solution,434.3,1,1,1,2a,Info Sources
+Problem,435,*,*,*,*,*
+Solution,435.1,*,*,*,*,*
+Solution,435.2,1,1,0,1c,Contact Professional For Assitance
+Problem,436,*,*,*,*,*
+Solution,436.1,1,1,1,2a,Info Sources
+Solution,436.2,*,*,*,*,*
+Solution,436.3,0,1,1,2a,Info Sources
+Problem,437,1,1,1,2d,Conflicts
+Solution,437.1,1,1,1,3a,Caregiver Wellbeing
+Solution,437.2,1,1,0,1c,Contact Professional For Assitance
+Solution,437.3,*,*,*,*,*
+Problem,438,1,0,1,1b,Emotions of the Care Giver
+Solution,438.1,1,1,1,3c,Caregiver Wellbeing
+Solution,438.2,0,1,1,5b,Doctor Consultations
+Solution,438.3,1,1,1,3a,Caregiver Wellbeing
+Problem,439,*,*,*,*,*
+Solution,439.1,*,*,*,*,*
+Solution,439.2,1,1,1,3a,Caregiver Wellbeing
+Solution,439.3,0,1,1,5e,Doctor Consultations
+Problem,440,1,1,1,9b,Doctors and Nursing Homes
+Solution,440.1,*,*,*,*,*
+Solution,440.2,1,1,0,3c,Caregiver Wellbeing
+Solution,440.3,1,1,1,3a,Caregiver Wellbeing
+Problem,441,1,1,0,6o,Symptoms
+Solution,441.1,1,0,1,5a,Doctor Consultations
+Solution,441.2,1,1,0,3c,Caregiver Wellbeing
+Solution,441.3,0,1,1,3c,Caregiver Wellbeing
+Problem,442,1,1,1,6f,Symptoms
+Solution,442.1,*,*,*,*,*
+Solution,442.2,*,*,*,*,*
+Solution,442.3,1,0,1,2a,Info Sources
+Problem,443,1,0,1,8c,Ethics
+Solution,443.1,1,1,0,3c,Caregiver Wellbeing
+Solution,443.2,0,1,1,6c,Medication
+Solution,443.3,1,1,1,2a,Info Sources
+Solution,443.4,1,1,1,2a,Info Sources
+Problem,444,1,1,1,7c,Physical Saftey
+Solution,444.1,1,1,0,4b,Strategies to handle the patient
+Solution,444.2,1,0,1,2a,Info Sources
+Problem,445,1,1,1,6k,Symptoms
+Solution,445.1,*,*,*,*,*
+Solution,445.2,*,*,*,*,*
+Solution,445.3,0,1,1,6c,Medication
+Problem,446,1,1,1,5g,Legal Financial
+Solution,446.1,1,1,1,3a,Caregiver Wellbeing
+Solution,446.2,1,1,1,3a,Caregiver Wellbeing
+Solution,446.3,1,1,1,3a,Caregiver Wellbeing
+Problem,447,1,1,0,6h,Symptoms
+Solution,447.1,1,1,0,3a,Caregiver Wellbeing
+Solution,447.2,1,0,1,5e,Doctor Consultations
+Solution,447.3,1,1,1,3c,Caregiver Wellbeing
+Problem,448,1,1,1,2a,Conflicts
+Solution,448.1,1,1,0,3a,Caregiver Wellbeing
+Problem,449,*,*,*,*,*
+Solution,449.1,1,1,1,4b,Strategies to handle the patient
+Problem,450,0,1,1,6k,Symptoms
+Solution,450.1,1,0,1,5a,Doctor Consultations
+Solution,450.2,1,1,1,4b,Strategies to handle the patient
+Solution,450.3,0,1,1,3c,Caregiver Wellbeing
+Problem,451,1,1,1,10a,General Information
+Solution,451.1,1,1,1,1a,Contact Professional For Assitance
+Solution,451.2,1,1,0,2a,Info Sources
+Problem,452,1,1,1,3c,Basic Hygiene
+Solution,452.1,1,0,1,9c,Personal Care
+Solution,452.2,*,*,*,*,*
+Solution,452.3,1,1,1,2a,Info Sources
+Problem,453,1,1,1,6f,Symptoms
+Solution,453.1,*,*,*,*,*
+Solution,453.2,0,1,1,3c,Caregiver Wellbeing
+Solution,453.3,1,1,1,4b,Strategies to handle the patient
+Problem,454,1,1,1,7d,Physical Saftey
+Solution,454.1,1,1,0,7a,Safety
+Solution,454.2,0,1,1,2a,Info Sources
+Solution,454.3,1,1,1,2a,Info Sources
+Problem,455,1,0,1,7c,Physical Saftey
+Solution,455.1,1,1,0,3a,Caregiver Wellbeing
+Solution,455.2,0,1,1,4c,Strategies to handle the patient
+Solution,455.3,1,1,1,3a,Caregiver Wellbeing
+Problem,456,1,1,1,6e,Symptoms
+Solution,456.1,1,1,1,3a,Caregiver Wellbeing
+Solution,456.2,1,1,1,3a,Caregiver Wellbeing
+Problem,457,*,*,*,*,*
+Solution,457.1,1,1,1,2a,Info Sources
+Problem,458,1,0,1,6c,Symptoms
+Problem,459,*,*,*,*,*
+Solution,459.1,1,1,1,2a,Info Sources
+Problem,460,1,1,1,7d,Physical Saftey
+Solution,460.1,1,1,0,5a,Doctor Consultations
+Problem,461,1,1,0,10b,General Information
+Solution,461.1,1,1,1,3c,Caregiver Wellbeing
+Solution,461.2,1,1,1,2a,Info Sources
+Problem,462,1,1,1,9a,Doctors and Nursing Homes
+Solution,462.1,1,1,1,1a,Contact Professional For Assitance
+Problem,463,0,1,1,2e,Conflicts
+Solution,463.1,1,1,1,5a,Doctor Consultations
+Solution,463.2,1,0,1,2a,Info Sources
+Problem,464,1,1,1,9b,Doctors and Nursing Homes
+Solution,464.1,*,*,*,*,*
+Solution,464.2,1,1,1,2a,Info Sources
+Solution,464.3,0,1,1,5e,Doctor Consultations
+Problem,465,1,1,0,7g,Physical Saftey
+Solution,465.1,1,1,1,3c,Caregiver Wellbeing
+Solution,465.2,1,1,1,7a,Safety
+Solution,465.3,1,0,1,5a,Doctor Consultations
+Problem,466,1,1,1,5e,Legal Financial
+Solution,466.1,0,1,1,3a,Caregiver Wellbeing
+Solution,466.2,1,1,0,1d,Contact Professional For Assitance
+Problem,467,1,1,1,6f,Symptoms
+Solution,467.1,1,1,1,3a,Caregiver Wellbeing
+Solution,467.2,*,*,*,*,*
+Problem,468,1,0,1,6f,Symptoms
+Solution,468.1,1,1,1,4f,Strategies to handle the patient
+Solution,468.2,1,1,1,3c,Caregiver Wellbeing
+Solution,468.3,0,1,1,6c,Medication
+Problem,469,*,*,*,*,*
+Solution,469.1,*,*,*,*,*
+Solution,469.2,*,*,*,*,*
+Solution,469.3,1,1,1,3a,Caregiver Wellbeing
+Problem,470,1,1,1,7c,Physical Saftey
+Solution,470.1,*,*,*,*,*
+Solution,470.2,*,*,*,*,*
+Solution,470.3,1,1,0,3a,Caregiver Wellbeing
+Problem,471,1,1,1,11a,Solutions
+Solution,471.1,1,1,0,3c,Caregiver Wellbeing
+Problem,472,0,1,1,10a,General Information
+Solution,472.1,1,1,0,3a,Caregiver Wellbeing
+Problem,473,1,1,1,6c,Symptoms
+Solution,473.1,1,0,1,1a,Contact Professional For Assitance
+Problem,474,*,*,*,*,*
+Solution,474.1,*,*,*,*,*
+Solution,474.2,0,1,1,1c,Contact Professional For Assitance
+Problem,475,1,1,1,6e,Symptoms
+Solution,475.1,1,1,1,3c,Caregiver Wellbeing
+Solution,475.2,1,1,0,3c,Caregiver Wellbeing
+Solution,475.3,1,1,1,5a,Doctor Consultations
+Solution,475.4,1,1,0,5e,Doctor Consultations
+Problem,476,1,1,1,2d,Conflicts
+Solution,476.1,0,1,1,6c,Medication
+Solution,476.2,1,1,1,1a,Contact Professional For Assitance
+Problem,477,1,1,1,5g,Legal Financial
+Solution,477.1,1,1,0,1e,Contact Professional For Assitance
+Solution,477.2,*,*,*,*,*
+Problem,478,1,1,0,6f,Symptoms
+Solution,478.1,*,*,*,*,*
+Solution,478.2,0,1,1,4f,Strategies to handle the patient
+Problem,479,1,1,1,8f,Ethics
+Solution,479.1,1,1,1,3a,Caregiver Wellbeing
+Solution,479.2,1,1,1,1a,Contact Professional For Assitance
+Problem,480,*,*,*,*,*
+Solution,480.1,1,1,1,8e,Home Care/Nursing Homes
+Solution,480.2,1,1,0,1c,Contact Professional For Assitance
+Problem,481,1,1,1,9h,Doctors and Nursing Homes
+Solution,481.1,1,1,0,3c,Caregiver Wellbeing
+Solution,481.2,1,1,1,3a,Caregiver Wellbeing
+Solution,481.3,1,1,1,3a,Caregiver Wellbeing
+Problem,482,1,1,1,7d,Physical Saftey
+Solution,482.1,0,1,1,2a,Info Sources
+Problem,483,*,*,*,*,*
+Solution,483.1,1,1,1,1c,Contact Professional For Assitance
+Solution,483.2,*,*,*,*,*
+Solution,483.3,1,1,0,3a,Caregiver Wellbeing
+Problem,484,1,1,1,6c,Symptoms
+Solution,484.1,1,1,1,2a,Info Sources
+Problem,485,1,1,1,5e,Legal Financial
+Solution,485.1,1,0,1,3a,Caregiver Wellbeing
+Problem,486,*,*,*,*,*
+Solution,486.1,1,1,1,2a,Info Sources
+Problem,487,1,1,1,6c,Symptoms
+Solution,487.1,1,0,1,3c,Caregiver Wellbeing
+Solution,487.2,1,1,0,3a,Caregiver Wellbeing
+Problem,488,1,1,1,6k,Symptoms
+Solution,488.1,1,1,1,5e,Doctor Consultations
+Solution,488.2,1,0,1,3c,Caregiver Wellbeing
+Problem,489,1,1,0,9f,Doctors and Nursing Homes
+Solution,489.1,0,1,1,3a,Caregiver Wellbeing
+Solution,489.2,1,0,1,3c,Caregiver Wellbeing
+Solution,489.3,*,*,*,*,*
+Solution,489.4,1,1,0,8f,Home Care/Nursing Homes
+Problem,490,*,*,*,*,*
+Solution,490.1,*,*,*,*,*
+Solution,490.2,0,1,1,5a,Doctor Consultations
+Solution,490.3,*,*,*,*,*
+Problem,491,1,1,0,9b,Doctors and Nursing Homes
+Solution,491.1,*,*,*,*,*
+Solution,491.2,*,*,*,*,*
+Problem,492,1,1,1,3a,Basic Hygiene
+Solution,492.1,1,1,0,3a,Caregiver Wellbeing
+Solution,492.2,1,1,0,9b,Personal Care
+Solution,492.3,1,0,1,3a,Caregiver Wellbeing
+Problem,493,*,*,*,*,*
+Solution,493.1,1,1,1,2a,Info Sources
+Solution,493.2,*,*,*,*,*
+Solution,493.3,*,*,*,*,*
+Solution,493.4,1,1,1,3c,Caregiver Wellbeing
+Problem,494,0,1,1,6h,Symptoms
+Solution,494.1,1,1,1,1a,Contact Professional For Assitance
+Solution,494.2,1,1,0,5a,Doctor Consultations
+Problem,495,1,0,1,5g,Legal Financial
+Solution,495.1,0,1,1,3a,Caregiver Wellbeing
+Solution,495.2,0,1,1,2a,Info Sources
+Solution,495.3,1,1,1,3c,Caregiver Wellbeing
+Solution,495.4,1,0,1,3a,Caregiver Wellbeing
+Solution,495.5,1,1,1,1a,Contact Professional For Assitance
+Solution,495.6,1,0,1,3c,Caregiver Wellbeing
+Problem,496,0,1,1,2d,Conflicts
+Solution,496.1,*,*,*,*,*
+Solution,496.2,1,1,0,3a,Caregiver Wellbeing
+Solution,496.3,1,0,1,1c,Contact Professional For Assitance
+Solution,496.4,1,1,0,2a,Info Sources
+Problem,497,*,*,*,*,*
+Solution,497.1,1,1,0,7c,Safety
+Solution,497.2,1,1,1,3c,Caregiver Wellbeing
+Problem,498,1,0,1,6l,Symptoms
+Solution,498.1,1,1,0,3a,Caregiver Wellbeing
+Solution,498.2,1,1,1,3a,Caregiver Wellbeing
+Problem,499,1,1,1,9a,Doctors and Nursing Homes
+Solution,499.1,1,1,0,3c,Caregiver Wellbeing
+Solution,499.2,1,0,1,1c,Contact Professional For Assitance
+Solution,499.3,1,1,1,1a,Contact Professional For Assitance
+Problem,500,1,1,1,3a,Basic Hygiene
+Solution,500.1,1,1,1,2a,Info Sources
+Solution,500.2,1,0,1,1c,Contact Professional For Assitance
+Solution,500.3,1,1,1,1a,Contact Professional For Assitance
+Problem,501,0,1,1,9c,Doctors and Nursing Homes
+Solution,501.1,1,0,1,3a,Caregiver Wellbeing
+Problem,502,1,1,1,9b,Doctors and Nursing Homes
+Solution,502.1,1,0,1,5d,Doctor Consultations
+Solution,502.2,0,1,1,2a,Info Sources
+Solution,502.3,1,1,1,1c,Contact Professional For Assitance
+Solution,502.4,*,*,*,*,*
+Problem,503,1,1,0,5h,Legal Financial
+Solution,503.1,1,1,1,1c,Contact Professional For Assitance
+Solution,503.2,1,1,1,1c,Contact Professional For Assitance
+Solution,503.3,1,0,1,1d,Contact Professional For Assitance
+Problem,504,1,1,1,9e,Doctors and Nursing Homes
+Solution,504.1,1,0,1,1c,Contact Professional For Assitance
+Problem,505,1,0,1,6a,Symptoms
+Solution,505.1,1,0,1,1a,Contact Professional For Assitance
+Solution,505.2,1,1,1,1a,Contact Professional For Assitance
+Problem,506,0,1,1,1a,Emotions of the Care Giver
+Solution,506.1,1,1,1,3a,Caregiver Wellbeing
+Problem,507,1,1,0,2e,Conflicts
+Solution,507.1,*,*,*,*,*
+Solution,507.2,1,0,1,2a,Info Sources
+Problem,508,1,1,0,6h,Symptoms
+Solution,508.1,1,1,0,3a,Caregiver Wellbeing
+Solution,508.2,1,0,1,8g,Home Care/Nursing Homes
+Solution,508.3,1,0,1,2a,Info Sources
+Problem,509,*,*,*,*,*
+Solution,509.1,1,0,1,5a,Doctor Consultations
+Solution,509.2,1,1,1,2a,Info Sources
+Problem,510,1,1,0,6g,Symptoms
+Solution,510.1,1,1,1,3c,Caregiver Wellbeing
+Solution,510.2,1,1,0,3a,Caregiver Wellbeing
+Solution,510.3,0,1,1,3a,Caregiver Wellbeing
+Problem,511,*,*,*,*,*
+Solution,511.1,0,1,1,3c,Caregiver Wellbeing
+Solution,511.2,1,0,1,3a,Caregiver Wellbeing
+Solution,511.3,1,1,0,3c,Caregiver Wellbeing
+Problem,512,*,*,*,*,*
+Solution,512.1,1,0,1,1c,Contact Professional For Assitance
+Problem,513,1,0,1,6b,Symptoms
+Solution,513.1,1,0,1,5a,Doctor Consultations
+Solution,513.2,1,1,1,3c,Caregiver Wellbeing
+Solution,513.3,1,1,0,8f,Home Care/Nursing Homes
+Problem,514,1,1,0,2a,Conflicts
+Solution,514.1,1,1,0,3a,Caregiver Wellbeing
+Problem,515,*,*,*,*,*
+Solution,515.1,*,*,*,*,*
+Solution,515.2,0,1,1,3c,Caregiver Wellbeing
+Problem,516,*,*,*,*,*
+Solution,516.1,1,1,0,3a,Caregiver Wellbeing
+Solution,516.2,1,1,1,3a,Caregiver Wellbeing
+Solution,516.3,1,0,1,2a,Info Sources
+Problem,517,1,1,1,7c,Physical Saftey
+Solution,517.1,*,*,*,*,*
+Solution,517.2,*,*,*,*,*
+Solution,517.3,*,*,*,*,*
+Problem,518,*,*,*,*,*
+Solution,518.1,*,*,*,*,*
+Solution,518.2,1,1,1,2a,Info Sources
+Problem,519,1,0,1,6l,Symptoms
+Solution,519.1,*,*,*,*,*
+Problem,520,0,1,1,6h,Symptoms
+Solution,520.1,1,1,0,8g,Home Care/Nursing Homes
+Solution,520.2,0,1,1,3a,Caregiver Wellbeing
+Solution,520.3,1,0,1,3a,Caregiver Wellbeing
+Problem,521,1,1,1,6h,Symptoms
+Solution,521.1,1,1,0,3c,Caregiver Wellbeing
+Solution,521.2,1,1,1,5a,Doctor Consultations
+Solution,521.3,1,0,1,2a,Info Sources
+Problem,522,*,*,*,*,*
+Solution,522.1,*,*,*,*,*
+Solution,522.2,0,1,1,6c,Medication
+Problem,523,1,1,1,9c,Doctors and Nursing Homes
+Solution,523.1,1,1,1,8d,Home Care/Nursing Homes
+Problem,524,*,*,*,*,*
+Solution,524.1,0,1,1,3c,Caregiver Wellbeing
+Solution,524.2,0,1,1,6c,Medication
+Solution,524.3,*,*,*,*,*
+Problem,525,0,1,1,5b,Legal Financial
+Solution,525.1,1,1,1,5a,Doctor Consultations
+Solution,525.2,1,0,1,1a,Contact Professional For Assitance
+Problem,526,1,0,1,10a,General Information
+Solution,526.1,1,0,1,2a,Info Sources
+Problem,527,0,1,1,3d,Basic Hygiene
+Solution,527.1,1,1,1,3a,Caregiver Wellbeing
+Solution,527.2,1,1,1,2a,Info Sources
+Solution,527.3,*,*,*,*,*
+Problem,528,1,1,0,4b,Medicines
+Solution,528.1,0,1,1,3a,Caregiver Wellbeing
+Solution,528.2,1,1,0,3c,Caregiver Wellbeing
+Solution,528.3,1,0,1,2a,Info Sources
+Problem,529,1,1,1,7c,Physical Saftey
+Solution,529.1,1,1,0,5a,Doctor Consultations
+Solution,529.2,1,1,0,5a,Doctor Consultations
+Solution,529.3,1,0,1,1a,Contact Professional For Assitance
+Problem,530,1,1,1,6c,Symptoms
+Solution,530.1,1,0,1,1a,Contact Professional For Assitance
+Problem,531,1,1,1,3d,Basic Hygiene
+Solution,531.1,0,1,1,2a,Info Sources
+Solution,531.2,0,1,1,5a,Doctor Consultations
+Problem,532,1,1,1,3a,Basic Hygiene
+Solution,532.1,*,*,*,*,*
+Solution,532.2,1,0,1,2a,Info Sources
+Solution,532.3,1,1,1,9d,Personal Care
+Problem,533,1,1,0,5f,Legal Financial
+Solution,533.1,*,*,*,*,*
+Solution,533.2,1,0,1,1a,Contact Professional For Assitance
+Problem,534,1,1,1,6f,Symptoms
+Solution,534.1,*,*,*,*,*
+Problem,535,1,1,0,3a,Basic Hygiene
+Solution,535.1,*,*,*,*,*
+Problem,536,1,1,1,9f,Doctors and Nursing Homes
+Solution,536.1,1,1,0,4d,Strategies to handle the patient
+Solution,536.2,1,0,1,8e,Home Care/Nursing Homes
+Solution,536.3,*,*,*,*,*
+Problem,537,*,*,*,*,*
+Solution,537.1,1,1,1,1a,Contact Professional For Assitance
+Solution,537.2,*,*,*,*,*
+Problem,538,1,1,1,6g,Symptoms
+Solution,538.1,*,*,*,*,*
+Solution,538.2,1,0,1,5a,Doctor Consultations
+Problem,539,1,1,0,3d,Basic Hygiene
+Solution,539.1,1,1,1,3c,Caregiver Wellbeing
+Solution,539.2,1,1,1,3a,Caregiver Wellbeing
+Solution,539.3,1,0,1,5a,Doctor Consultations
+Problem,540,1,1,1,3d,Basic Hygiene
+Solution,540.1,1,1,0,2a,Info Sources
+Problem,541,1,1,0,9c,Doctors and Nursing Homes
+Solution,541.1,1,0,1,3a,Caregiver Wellbeing
+Solution,541.2,*,*,*,*,*
+Problem,542,1,0,1,6b,Symptoms
+Solution,542.1,*,*,*,*,*
+Problem,543,1,1,0,7g,Physical Saftey
+Solution,543.1,1,1,0,5a,Doctor Consultations
+Problem,544,0,1,1,2b,Conflicts
+Solution,544.1,0,1,1,3a,Caregiver Wellbeing
+Solution,544.2,1,1,1,3a,Caregiver Wellbeing
+Problem,545,1,1,1,7d,Physical Saftey
+Solution,545.1,1,0,1,7a,Safety
+Solution,545.2,1,1,1,2a,Info Sources
+Problem,546,1,0,1,9b,Doctors and Nursing Homes
+Solution,546.1,1,1,0,3a,Caregiver Wellbeing
+Solution,546.2,1,1,0,5a,Doctor Consultations
+Solution,546.3,*,*,*,*,*
+Problem,547,1,1,1,10a,General Information
+Solution,547.1,1,1,0,3a,Caregiver Wellbeing
+Solution,547.2,*,*,*,*,*
+Solution,547.3,1,1,1,3a,Caregiver Wellbeing
+Problem,548,1,1,1,1c,Emotions of the Care Giver
+Solution,548.1,0,1,1,3a,Caregiver Wellbeing
+Solution,548.2,*,*,*,*,*
+Problem,549,*,*,*,*,*
+Solution,549.1,1,0,1,9a,Personal Care
+Solution,549.2,0,1,1,4b,Strategies to handle the patient
+Solution,549.3,*,*,*,*,*
+Problem,550,1,1,1,6j,Symptoms
+Solution,550.1,0,1,1,3a,Caregiver Wellbeing
+Solution,550.2,1,0,1,5a,Doctor Consultations
+Problem,551,1,1,1,11a,Solutions
+Solution,551.1,1,1,1,3a,Caregiver Wellbeing
+Solution,551.2,1,0,1,3a,Caregiver Wellbeing
+Solution,551.3,0,1,1,3c,Caregiver Wellbeing
+Solution,551.4,1,0,1,2a,Info Sources
+Problem,552,1,1,1,9f,Doctors and Nursing Homes
+Solution,552.1,1,1,0,3a,Caregiver Wellbeing
+Solution,552.2,1,1,0,3a,Caregiver Wellbeing
+Problem,553,1,1,0,10a,General Information
+Solution,553.1,0,1,1,5a,Doctor Consultations
+Solution,553.2,1,1,1,3a,Caregiver Wellbeing
+Problem,554,*,*,*,*,*
+Solution,554.1,1,1,0,3a,Caregiver Wellbeing
+Solution,554.2,*,*,*,*,*
+Problem,555,1,1,1,5c,Legal Financial
+Solution,555.1,*,*,*,*,*
+Solution,555.2,1,1,1,1a,Contact Professional For Assitance
+Problem,556,1,1,0,6k,Symptoms
+Solution,556.1,1,0,1,1c,Contact Professional For Assitance
+Solution,556.2,1,1,0,3c,Caregiver Wellbeing
+Solution,556.3,1,1,0,3a,Caregiver Wellbeing
+Problem,557,1,0,1,6e,Symptoms
+Solution,557.1,*,*,*,*,*
+Solution,557.2,1,1,1,1a,Contact Professional For Assitance
+Problem,558,0,1,1,6o,Symptoms
+Solution,558.1,*,*,*,*,*
+Problem,559,1,1,1,9g,Doctors and Nursing Homes
+Solution,559.1,1,1,0,5a,Doctor Consultations
+Solution,559.2,1,1,0,3a,Caregiver Wellbeing
+Problem,560,*,*,*,*,*
+Solution,560.1,1,0,1,5a,Doctor Consultations
+Solution,560.2,1,1,1,1a,Contact Professional For Assitance
+Problem,561,1,1,1,3a,Basic Hygiene
+Solution,561.1,1,1,1,9d,Personal Care
+Problem,562,1,1,0,6o,Symptoms
+Solution,562.1,1,0,1,5a,Doctor Consultations
+Solution,562.2,1,0,1,2a,Info Sources
+Problem,563,0,1,1,10a,General Information
+Problem,564,*,*,*,*,*
+Solution,564.1,*,*,*,*,*
+Solution,564.2,1,0,1,2a,Info Sources
+Problem,565,*,*,*,*,*
+Problem,566,1,0,1,3c,Basic Hygiene
+Solution,566.1,1,1,0,3c,Caregiver Wellbeing
+Solution,566.2,0,1,1,6c,Medication
+Problem,567,*,*,*,*,*
+Solution,567.1,1,1,1,2a,Info Sources
+Problem,568,1,1,1,2e,Conflicts
+Solution,568.1,1,1,1,1a,Contact Professional For Assitance
+Solution,568.2,1,1,0,3c,Caregiver Wellbeing
+Problem,569,*,*,*,*,*
+Solution,569.1,*,*,*,*,*
+Solution,569.2,*,*,*,*,*
+Problem,570,1,1,1,6b,Symptoms
+Solution,570.1,1,1,0,3c,Caregiver Wellbeing
+Solution,570.2,1,1,0,3c,Caregiver Wellbeing
+Problem,571,1,0,1,8e,Ethics
+Solution,571.1,1,1,1,2a,Info Sources
+Solution,571.2,1,1,0,2a,Info Sources
+Problem,572,1,1,0,6m,Symptoms
+Solution,572.1,1,1,0,3a,Caregiver Wellbeing
+Problem,573,*,*,*,*,*
+Solution,573.1,1,1,0,2a,Info Sources
+Problem,574,1,0,1,1b,Emotions of the Care Giver
+Solution,574.1,0,1,1,3c,Caregiver Wellbeing
+Solution,574.2,1,1,0,7a,Safety
+Problem,575,1,1,0,6m,Symptoms
+Solution,575.1,1,1,0,3a,Caregiver Wellbeing
+Solution,575.2,1,0,1,2a,Info Sources
+Problem,576,1,1,1,10a,General Information
+Solution,576.1,0,1,1,3a,Caregiver Wellbeing
+Solution,576.2,1,1,0,3a,Caregiver Wellbeing
+Solution,576.3,*,*,*,*,*
+Problem,577,1,1,0,10a,General Information
+Problem,578,1,1,1,6g,Symptoms
+Solution,578.1,1,1,0,3c,Caregiver Wellbeing
+Solution,578.2,0,1,1,3a,Caregiver Wellbeing
+Problem,579,1,0,1,7c,Physical Saftey
+Solution,579.1,*,*,*,*,*
+Solution,579.2,*,*,*,*,*
+Problem,580,*,*,*,*,*
+Solution,580.1,1,0,1,1c,Contact Professional For Assitance
+Solution,580.2,1,1,1,1a,Contact Professional For Assitance
+Problem,581,1,1,1,6a,Symptoms
+Solution,581.1,0,1,1,3a,Caregiver Wellbeing
+Solution,581.2,1,1,1,1a,Contact Professional For Assitance
+Problem,582,0,1,1,1a,Emotions of the Care Giver
+Solution,582.1,*,*,*,*,*
+Solution,582.2,*,*,*,*,*
+Problem,583,1,1,1,6c,Symptoms
+Solution,583.1,*,*,*,*,*
+Solution,583.2,1,1,1,5a,Doctor Consultations
+Problem,584,0,1,1,2c,Conflicts
+Solution,584.1,1,0,1,1c,Contact Professional For Assitance
+Solution,584.2,*,*,*,*,*
+Problem,585,0,1,1,2c,Conflicts
+Problem,586,*,*,*,*,*
+Solution,586.1,*,*,*,*,*
+Solution,586.2,1,1,1,4b,Strategies to handle the patient
+Problem,587,1,1,0,10b,General Information
+Solution,587.1,0,1,1,3a,Caregiver Wellbeing
+Problem,588,*,*,*,*,*
+Solution,588.1,1,0,1,5a,Doctor Consultations
+Solution,588.2,1,1,1,3a,Caregiver Wellbeing
+Problem,589,1,0,1,5d,Legal Financial
+Solution,589.1,*,*,*,*,*
+Solution,589.2,1,1,0,3c,Caregiver Wellbeing
+Problem,590,1,1,0,6o,Symptoms
+Solution,590.1,1,1,0,8g,Home Care/Nursing Homes
+Solution,590.2,1,0,1,2a,Info Sources
+Problem,591,1,0,1,3a,Basic Hygiene
+Solution,591.1,*,*,*,*,*
+Solution,591.2,1,0,1,2a,Info Sources
+Problem,592,1,1,1,1a,Emotions of the Care Giver
+Solution,592.1,1,1,1,3a,Caregiver Wellbeing
+Problem,593,1,1,1,6k,Symptoms
+Solution,593.1,1,1,1,2a,Info Sources
+Problem,594,1,1,0,5g,Legal Financial
+Solution,594.1,1,1,0,3a,Caregiver Wellbeing
+Problem,595,1,1,1,4a,Medicines
+Solution,595.1,1,1,0,6a,Medication
+Solution,595.2,*,*,*,*,*
+Problem,596,1,1,1,8d,Ethics
+Solution,596.1,*,*,*,*,*
+Solution,596.2,*,*,*,*,*
+Problem,597,1,1,0,4b,Medicines
+Solution,597.1,1,1,0,3c,Caregiver Wellbeing
+Problem,598,1,0,1,9a,Doctors and Nursing Homes
+Solution,598.1,1,1,0,3a,Caregiver Wellbeing
+Solution,598.2,1,0,1,2a,Info Sources
+Problem,599,1,1,1,10a,General Information
+Solution,599.1,1,1,1,2a,Info Sources
+Solution,599.2,1,1,1,2a,Info Sources
+Problem,600,1,0,1,9f,Doctors and Nursing Homes
+Solution,600.1,*,*,*,*,*
+Solution,600.2,0,1,1,3a,Caregiver Wellbeing
+Problem,601,0,1,1,6a,Symptoms
+Solution,601.1,1,1,1,4b,Strategies to handle the patient
+Solution,601.2,1,1,1,3c,Caregiver Wellbeing
+Problem,602,1,1,0,2a,Conflicts
+Solution,602.1,1,0,1,1c,Contact Professional For Assitance
+Solution,602.2,1,1,1,1d,Contact Professional For Assitance
+Problem,603,1,1,1,6j,Symptoms
+Solution,603.1,1,1,0,3c,Caregiver Wellbeing
+Solution,603.2,1,0,1,1a,Contact Professional For Assitance
+Problem,604,1,1,0,2c,Conflicts
+Solution,604.1,1,1,1,3c,Caregiver Wellbeing
+Solution,604.2,1,1,1,3a,Caregiver Wellbeing
+Solution,604.3,0,1,1,3a,Caregiver Wellbeing
+Problem,605,*,*,*,*,*
+Solution,605.1,1,0,1,3c,Caregiver Wellbeing
+Solution,605.2,1,1,1,2a,Info Sources
+Solution,605.3,1,1,1,2a,Info Sources
+Problem,606,1,1,1,8c,Ethics
+Solution,606.1,*,*,*,*,*
+Solution,606.2,1,0,1,4f,Strategies to handle the patient
+Solution,606.3,1,0,1,4f,Strategies to handle the patient
+Solution,606.4,1,1,1,2a,Info Sources
+Problem,607,0,1,1,7f,Physical Saftey
+Problem,608,1,1,0,6f,Symptoms
+Solution,608.1,1,1,0,4d,Strategies to handle the patient
+Solution,608.2,1,1,0,3c,Caregiver Wellbeing
+Solution,608.3,1,1,0,3c,Caregiver Wellbeing
+Solution,608.4,1,1,1,4b,Strategies to handle the patient
+Problem,609,1,1,1,6c,Symptoms
+Solution,609.1,1,1,1,3a,Caregiver Wellbeing
+Solution,609.2,1,1,1,3a,Caregiver Wellbeing
+Problem,610,1,1,1,6b,Symptoms
+Solution,610.1,0,1,1,3a,Caregiver Wellbeing
+Problem,611,1,1,1,2d,Conflicts
+Solution,611.1,1,1,0,3a,Caregiver Wellbeing
+Problem,612,1,1,1,9a,Doctors and Nursing Homes
+Solution,612.1,1,1,1,3c,Caregiver Wellbeing
+Solution,612.2,*,*,*,*,*
+Problem,613,0,1,1,5b,Legal Financial
+Solution,613.1,1,1,1,3c,Caregiver Wellbeing
+Solution,613.2,1,1,1,2a,Info Sources
+Solution,613.3,1,0,1,1c,Contact Professional For Assitance
+Problem,614,1,1,0,5a,Legal Financial
+Solution,614.1,0,1,1,3a,Caregiver Wellbeing
+Problem,615,0,1,1,6n,Symptoms
+Solution,615.1,1,1,1,3a,Caregiver Wellbeing
+Solution,615.2,1,1,0,3a,Caregiver Wellbeing
+Solution,615.3,1,0,1,2a,Info Sources
+Problem,616,1,1,1,8b,Ethics
+Solution,616.1,1,0,1,3a,Caregiver Wellbeing
+Solution,616.2,0,1,1,3a,Caregiver Wellbeing
+Problem,617,1,1,1,6g,Symptoms
+Solution,617.1,0,1,1,3c,Caregiver Wellbeing
+Solution,617.2,*,*,*,*,*
+Problem,618,*,*,*,*,*
+Solution,618.1,1,1,1,1a,Contact Professional For Assitance
+Solution,618.2,*,*,*,*,*
+Problem,619,*,*,*,*,*
+Solution,619.1,*,*,*,*,*
+Solution,619.2,0,1,1,5a,Doctor Consultations
+Problem,620,*,*,*,*,*
+Solution,620.1,*,*,*,*,*
+Solution,620.2,*,*,*,*,*
+Solution,620.3,1,1,1,1a,Contact Professional For Assitance
+Solution,620.4,1,0,1,1c,Contact Professional For Assitance
+Solution,620.5,1,1,1,1a,Contact Professional For Assitance
+Problem,621,1,1,1,5a,Legal Financial
+Solution,621.1,1,1,1,2a,Info Sources
+Solution,621.2,0,1,1,6c,Medication
+Solution,621.3,1,1,0,1d,Contact Professional For Assitance
+Problem,622,0,1,1,2d,Conflicts
+Solution,622.1,1,0,1,1a,Contact Professional For Assitance
+Solution,622.2,1,1,0,3a,Caregiver Wellbeing
+Solution,622.3,1,1,0,4b,Strategies to handle the patient
+Problem,623,1,1,0,2e,Conflicts
+Solution,623.1,0,1,1,3a,Caregiver Wellbeing
+Problem,624,0,1,1,6d,Symptoms
+Solution,624.1,1,1,0,3d,Caregiver Wellbeing
+Solution,624.2,1,1,0,3d,Caregiver Wellbeing
+Solution,624.3,1,1,1,3a,Caregiver Wellbeing
+Solution,624.4,1,1,1,3a,Caregiver Wellbeing
+Problem,625,1,1,0,6a,Symptoms
+Solution,625.1,1,1,0,2a,Info Sources
+Solution,625.2,0,1,1,3c,Caregiver Wellbeing
+Solution,625.3,1,0,1,3c,Caregiver Wellbeing
+Problem,626,1,0,1,7h,Physical Saftey
+Solution,626.1,1,1,1,3c,Caregiver Wellbeing
+Solution,626.2,1,1,1,5a,Doctor Consultations
+Solution,626.3,*,*,*,*,*
+Problem,627,0,1,1,7e,Physical Saftey
+Solution,627.1,*,*,*,*,*
+Solution,627.2,1,0,1,2a,Info Sources
+Problem,628,*,*,*,*,*
+Solution,628.1,*,*,*,*,*
+Problem,629,1,1,0,9h,Doctors and Nursing Homes
+Solution,629.1,1,1,0,3a,Caregiver Wellbeing
+Solution,629.2,1,0,1,8e,Home Care/Nursing Homes
+Solution,629.3,1,1,1,3a,Caregiver Wellbeing
+Problem,630,1,1,1,6a,Symptoms
+Solution,630.1,1,1,1,2a,Info Sources
+Solution,630.2,1,1,1,3c,Caregiver Wellbeing
+Solution,630.3,1,1,1,1a,Contact Professional For Assitance
+Problem,631,1,1,0,3f,Basic Hygiene
+Solution,631.1,1,1,0,4d,Strategies to handle the patient
+Solution,631.2,1,1,1,3a,Caregiver Wellbeing
+Solution,631.3,1,1,1,4b,Strategies to handle the patient
+Problem,632,1,1,0,10a,General Information
+Solution,632.1,1,1,1,2a,Info Sources
+Solution,632.2,1,1,1,2a,Info Sources
+Problem,633,1,1,0,9a,Doctors and Nursing Homes
+Solution,633.1,*,*,*,*,*
+Solution,633.2,*,*,*,*,*
+Problem,634,0,1,1,6e,Symptoms
+Solution,634.1,*,*,*,*,*
+Solution,634.2,0,1,1,3a,Caregiver Wellbeing
+Problem,635,1,1,1,3a,Basic Hygiene
+Solution,635.1,1,1,1,3c,Caregiver Wellbeing
+Solution,635.2,0,1,1,2a,Info Sources
+Solution,635.3,1,1,1,7a,Safety
+Problem,636,*,*,*,*,*
+Solution,636.1,1,0,1,2a,Info Sources
+Solution,636.2,1,1,0,3c,Caregiver Wellbeing
+Problem,637,1,1,0,6k,Symptoms
+Solution,637.1,1,1,1,5b,Doctor Consultations
+Solution,637.2,1,1,1,2a,Info Sources
+Problem,638,1,1,1,2d,Conflicts
+Solution,638.1,*,*,*,*,*
+Solution,638.2,1,0,1,5b,Doctor Consultations
+Problem,639,1,1,1,6f,Symptoms
+Solution,639.1,1,1,1,3c,Caregiver Wellbeing
+Solution,639.2,0,1,1,3a,Caregiver Wellbeing
+Solution,639.3,0,1,1,3c,Caregiver Wellbeing
+Problem,640,1,1,1,6b,Symptoms
+Solution,640.1,1,0,1,1a,Contact Professional For Assitance
+Solution,640.2,1,1,0,3a,Caregiver Wellbeing
+Problem,641,1,1,1,6b,Symptoms
+Solution,641.1,1,0,1,2a,Info Sources
+Solution,641.2,1,0,1,2a,Info Sources
+Problem,642,1,1,0,9h,Doctors and Nursing Homes
+Solution,642.1,1,1,0,3a,Caregiver Wellbeing
+Solution,642.2,1,1,0,3a,Caregiver Wellbeing
+Problem,643,*,*,*,*,*
+Solution,643.1,*,*,*,*,*
+Problem,644,1,1,0,9a,Doctors and Nursing Homes
+Solution,644.1,0,1,1,3a,Caregiver Wellbeing
+Problem,645,1,1,1,6a,Symptoms
+Solution,645.1,1,1,1,2a,Info Sources
+Solution,645.2,1,1,1,2a,Info Sources
+Solution,645.3,*,*,*,*,*
+Problem,646,1,1,0,1a,Emotions of the Care Giver
+Solution,646.1,1,1,1,3a,Caregiver Wellbeing
+Solution,646.2,1,1,0,2a,Info Sources
+Solution,646.3,*,*,*,*,*
+Solution,646.4,*,*,*,*,*
+Problem,647,*,*,*,*,*
+Solution,647.1,1,1,1,3a,Caregiver Wellbeing
+Solution,647.2,1,0,1,3a,Caregiver Wellbeing
+Problem,648,1,0,1,6f,Symptoms
+Solution,648.1,1,0,1,4f,Strategies to handle the patient
+Solution,648.2,1,0,1,4f,Strategies to handle the patient
+Problem,649,0,1,1,6e,Symptoms
+Solution,649.1,1,1,0,3a,Caregiver Wellbeing
+Solution,649.2,1,1,1,2a,Info Sources
+Problem,650,1,1,0,6f,Symptoms
+Solution,650.1,1,1,0,3a,Caregiver Wellbeing
+Solution,650.2,*,*,*,*,*
+Solution,650.3,1,0,1,4f,Strategies to handle the patient
+Solution,650.4,0,1,1,3c,Caregiver Wellbeing
+Problem,651,1,1,1,9i,Doctors and Nursing Homes
+Solution,651.1,1,0,1,1d,Contact Professional For Assitance
+Solution,651.2,1,1,1,1e,Contact Professional For Assitance
+Problem,652,1,1,1,10a,General Information
+Solution,652.1,0,1,1,3a,Caregiver Wellbeing
+Solution,652.2,0,1,1,3a,Caregiver Wellbeing
+Problem,653,1,0,1,6n,Symptoms
+Solution,653.1,0,1,1,6c,Medication
+Solution,653.2,1,1,1,2a,Info Sources
+Problem,654,1,0,1,8c,Ethics
+Solution,654.1,1,1,1,3a,Caregiver Wellbeing
+Problem,655,1,0,1,10a,General Information
+Solution,655.1,*,*,*,*,*
+Problem,656,0,1,1,10a,General Information
+Solution,656.1,1,1,1,2a,Info Sources
+Solution,656.2,0,1,1,3a,Caregiver Wellbeing
+Problem,657,1,1,0,8d,Ethics
+Solution,657.1,0,1,1,4d,Strategies to handle the patient
+Solution,657.2,0,1,1,4d,Strategies to handle the patient
+Problem,658,1,0,1,3d,Basic Hygiene
+Solution,658.1,1,1,1,9c,Personal Care
+Solution,658.2,0,1,1,3c,Caregiver Wellbeing
+Problem,659,1,1,1,6h,Symptoms
+Solution,659.1,1,1,1,3a,Caregiver Wellbeing
+Solution,659.2,1,0,1,3a,Caregiver Wellbeing
+Solution,659.3,1,1,1,3a,Caregiver Wellbeing
+Problem,660,1,0,1,8e,Ethics
+Solution,660.1,1,1,0,3a,Caregiver Wellbeing
+Problem,661,*,*,*,*,*
+Solution,661.1,0,1,1,1a,Contact Professional For Assitance
+Solution,661.2,1,1,0,3a,Caregiver Wellbeing
+Problem,662,1,0,1,6c,Symptoms
+Solution,662.1,1,1,1,3a,Caregiver Wellbeing
+Solution,662.2,1,0,1,3a,Caregiver Wellbeing
+Problem,663,1,1,1,4b,Medicines
+Solution,663.1,1,1,0,3a,Caregiver Wellbeing
+Problem,664,1,0,1,8a,Ethics
+Solution,664.1,1,1,1,1d,Contact Professional For Assitance
+Solution,664.2,1,1,1,3a,Caregiver Wellbeing
+Problem,665,*,*,*,*,*
+Solution,665.1,1,0,1,2a,Info Sources
+Solution,665.2,1,1,1,2a,Info Sources
+Problem,666,*,*,*,*,*
+Solution,666.1,0,1,1,5b,Doctor Consultations
+Solution,666.2,0,1,1,5b,Doctor Consultations
+Problem,667,1,1,0,7c,Physical Saftey
+Solution,667.1,1,1,1,3c,Caregiver Wellbeing
+Solution,667.2,1,1,0,4b,Strategies to handle the patient
+Solution,667.3,*,*,*,*,*
+Problem,668,1,1,1,9c,Doctors and Nursing Homes
+Solution,668.1,1,1,1,8d,Home Care/Nursing Homes
+Solution,668.2,*,*,*,*,*
+Problem,669,*,*,*,*,*
+Solution,669.1,1,0,1,1a,Contact Professional For Assitance
+Problem,670,*,*,*,*,*
+Solution,670.1,1,0,1,5a,Doctor Consultations
+Solution,670.2,1,1,1,2a,Info Sources
+Problem,671,*,*,*,*,*
+Solution,671.1,1,1,0,3a,Caregiver Wellbeing
+Solution,671.2,1,1,1,3c,Caregiver Wellbeing
+Solution,671.3,1,1,1,1d,Contact Professional For Assitance
+Problem,672,0,1,1,5d,Legal Financial
+Solution,672.1,1,0,1,1a,Contact Professional For Assitance
+Problem,673,*,*,*,*,*
+Solution,673.1,1,1,0,9b,Personal Care
+Solution,673.2,1,1,0,3a,Caregiver Wellbeing
+Problem,674,*,*,*,*,*
+Solution,674.1,*,*,*,*,*
+Solution,674.2,1,1,1,2a,Info Sources
+Solution,674.3,1,1,1,3c,Caregiver Wellbeing
+Problem,675,1,1,0,10b,General Information
+Solution,675.1,1,1,1,3a,Caregiver Wellbeing
+Problem,676,*,*,*,*,*
+Solution,676.1,1,0,1,8b,Home Care/Nursing Homes
+Solution,676.2,1,1,0,3a,Caregiver Wellbeing
+Problem,677,1,1,1,10a,General Information
+Solution,677.1,1,1,1,2a,Info Sources
+Solution,677.2,0,1,1,3a,Caregiver Wellbeing
+Problem,678,1,0,1,9b,Doctors and Nursing Homes
+Problem,679,1,1,1,10a,General Information
+Solution,679.1,1,1,0,3a,Caregiver Wellbeing
+Solution,679.2,1,1,1,2a,Info Sources
+Problem,680,0,1,1,9e,Doctors and Nursing Homes
+Solution,680.1,0,1,1,7a,Safety
+Solution,680.2,*,*,*,*,*
+Problem,681,1,1,1,2a,Conflicts
+Solution,681.1,1,0,1,1a,Contact Professional For Assitance
+Solution,681.2,1,1,0,3a,Caregiver Wellbeing
+Problem,682,0,1,1,6k,Symptoms
+Solution,682.1,1,1,0,2a,Info Sources
+Solution,682.2,1,0,1,3c,Caregiver Wellbeing
+Problem,683,1,1,1,9f,Doctors and Nursing Homes
+Solution,683.1,1,1,1,3a,Caregiver Wellbeing
+Solution,683.2,0,1,1,8e,Home Care/Nursing Homes
+Problem,684,1,0,1,6a,Symptoms
+Solution,684.1,*,*,*,*,*
+Solution,684.2,1,1,1,2a,Info Sources
+Problem,685,1,1,1,6k,Symptoms
+Solution,685.1,1,0,1,5a,Doctor Consultations
+Solution,685.2,1,1,0,7c,Safety
+Problem,686,1,1,1,10a,General Information
+Solution,686.1,1,0,1,2a,Info Sources
+Solution,686.2,0,1,1,2a,Info Sources
+Problem,687,*,*,*,*,*
+Solution,687.1,*,*,*,*,*
+Solution,687.2,1,1,1,1d,Contact Professional For Assitance
+Solution,687.3,1,1,1,1d,Contact Professional For Assitance
+Solution,687.4,0,1,1,3a,Caregiver Wellbeing
+Problem,688,*,*,*,*,*
+Solution,688.1,0,1,1,3a,Caregiver Wellbeing
+Solution,688.2,1,0,1,5e,Doctor Consultations
+Solution,688.3,*,*,*,*,*
+Problem,689,1,1,0,7e,Physical Saftey
+Solution,689.1,1,1,0,3a,Caregiver Wellbeing
+Solution,689.2,1,0,1,2a,Info Sources
+Problem,690,1,1,0,4b,Medicines
+Solution,690.1,*,*,*,*,*
+Solution,690.2,1,1,0,3c,Caregiver Wellbeing
+Solution,690.3,1,0,1,2a,Info Sources
+Problem,691,1,1,0,4a,Medicines
+Solution,691.1,1,1,1,3a,Caregiver Wellbeing
+Solution,691.2,*,*,*,*,*
+Solution,691.3,*,*,*,*,*
+Solution,691.4,*,*,*,*,*
+Solution,691.5,*,*,*,*,*
+Problem,692,1,1,1,3a,Basic Hygiene
+Solution,692.1,1,1,1,7a,Safety
+Solution,692.2,*,*,*,*,*
+Problem,693,1,1,0,2d,Conflicts
+Solution,693.1,1,1,0,3a,Caregiver Wellbeing
+Solution,693.2,1,0,1,1a,Contact Professional For Assitance
+Problem,694,1,1,1,6g,Symptoms
+Solution,694.1,1,1,1,3a,Caregiver Wellbeing
+Problem,695,*,*,*,*,*
+Solution,695.1,1,0,1,5a,Doctor Consultations
+Solution,695.2,0,1,1,2a,Info Sources
+Problem,696,1,0,1,6f,Symptoms
+Solution,696.1,*,*,*,*,*
+Solution,696.2,1,1,0,4b,Strategies to handle the patient
+Problem,697,1,1,1,5c,Legal Financial
+Solution,697.1,*,*,*,*,*
+Problem,698,1,1,1,8e,Ethics
+Solution,698.1,1,1,1,2a,Info Sources
+Problem,699,*,*,*,*,*
+Solution,699.1,*,*,*,*,*
+Problem,700,1,1,0,6a,Symptoms
+Solution,700.1,1,1,1,4b,Strategies to handle the patient
+Problem,701,*,*,*,*,*
+Problem,702,1,1,1,6f,Symptoms
+Solution,702.1,*,*,*,*,*
+Solution,702.2,0,1,1,3b,Caregiver Wellbeing
+Problem,703,1,1,1,9a,Doctors and Nursing Homes
+Solution,703.1,1,0,1,1a,Contact Professional For Assitance
+Problem,704,0,1,1,9c,Doctors and Nursing Homes
+Solution,704.1,0,1,1,3a,Caregiver Wellbeing
+Solution,704.2,1,1,0,3a,Caregiver Wellbeing
+Problem,705,1,1,0,1a,Emotions of the Care Giver
+Problem,706,*,*,*,*,*
+Solution,706.1,1,1,1,2a,Info Sources
+Problem,707,0,1,1,6a,Symptoms
+Solution,707.1,1,0,1,2a,Info Sources
+Problem,708,1,1,0,5h,Legal Financial
+Solution,708.1,0,1,1,1a,Contact Professional For Assitance
+Problem,709,*,*,*,*,*
+Solution,709.1,1,0,1,7a,Safety
+Solution,709.2,1,1,1,2a,Info Sources
+Problem,710,*,*,*,*,*
+Solution,710.1,*,*,*,*,*
+Problem,711,1,1,1,9h,Doctors and Nursing Homes
+Solution,711.1,1,1,0,3a,Caregiver Wellbeing
+Problem,712,1,0,1,6e,Symptoms
+Solution,712.1,0,1,1,3a,Caregiver Wellbeing
+Problem,713,1,1,0,10b,General Information
+Solution,713.1,0,1,1,3a,Caregiver Wellbeing
+Problem,714,1,0,1,1d,Emotions of the Care Giver
+Problem,715,1,1,0,6k,Symptoms
+Solution,715.1,1,1,1,2a,Info Sources
+Problem,716,1,0,1,10a,General Information
+Problem,717,*,*,*,*,*
+Solution,717.1,1,0,1,3c,Caregiver Wellbeing
+Solution,717.2,*,*,*,*,*
+Problem,718,1,0,1,6n,Symptoms
+Solution,718.1,1,0,1,2a,Info Sources
+Problem,719,0,1,1,2b,Conflicts
+Solution,719.1,1,1,1,3a,Caregiver Wellbeing
+Solution,719.2,0,1,1,3a,Caregiver Wellbeing
+Problem,720,*,*,*,*,*
+Solution,720.1,1,1,0,3c,Caregiver Wellbeing
+Problem,721,1,1,0,9b,Doctors and Nursing Homes
+Solution,721.1,0,1,1,3a,Caregiver Wellbeing
+Solution,721.2,0,1,1,3d,Caregiver Wellbeing
+Problem,722,1,0,1,9h,Doctors and Nursing Homes
+Solution,722.1,1,0,1,8b,Home Care/Nursing Homes
+Problem,723,1,0,1,6i,Symptoms
+Solution,723.1,1,0,1,3a,Caregiver Wellbeing
+Solution,723.2,1,1,1,1a,Contact Professional For Assitance
+Problem,724,*,*,*,*,*
+Solution,724.1,1,1,1,1b,Contact Professional For Assitance
+Solution,724.2,1,0,1,1c,Contact Professional For Assitance
+Solution,724.3,1,0,1,1d,Contact Professional For Assitance
+Problem,725,*,*,*,*,*
+Solution,725.1,1,1,1,8g,Home Care/Nursing Homes
+Solution,725.2,0,1,1,3a,Caregiver Wellbeing
+Problem,726,1,1,1,6g,Symptoms
+Solution,726.1,1,0,1,2a,Info Sources
+Solution,726.2,*,*,*,*,*
+Solution,726.3,1,1,1,3c,Caregiver Wellbeing
+Problem,727,1,0,1,9f,Doctors and Nursing Homes
+Solution,727.1,1,1,1,3c,Caregiver Wellbeing
+Solution,727.2,1,0,1,8c,Home Care/Nursing Homes
+Solution,727.3,1,0,1,3c,Caregiver Wellbeing
+Problem,728,1,0,1,6n,Symptoms
+Solution,728.1,1,1,1,3a,Caregiver Wellbeing
+Problem,729,*,*,*,*,*
+Solution,729.1,1,1,1,2a,Info Sources
+Problem,730,1,1,1,10a,General Information
+Solution,730.1,1,1,1,2a,Info Sources
+Problem,731,0,1,1,2d,Conflicts
+Solution,731.1,*,*,*,*,*
+Solution,731.2,1,1,1,3a,Caregiver Wellbeing
+Solution,731.3,1,1,0,3b,Caregiver Wellbeing
+Problem,732,1,0,1,8e,Ethics
+Solution,732.1,*,*,*,*,*
+Problem,733,1,1,1,10a,General Information
+Solution,733.1,1,1,1,3a,Caregiver Wellbeing
+Problem,734,*,*,*,*,*
+Solution,734.1,1,1,1,3c,Caregiver Wellbeing
+Solution,734.2,1,1,0,3c,Caregiver Wellbeing
+Solution,734.3,1,1,1,3a,Caregiver Wellbeing
+Problem,735,1,0,1,6c,Symptoms
+Solution,735.1,1,1,1,3a,Caregiver Wellbeing
+Solution,735.2,1,1,0,2a,Info Sources
+Problem,736,1,1,1,10a,General Information
+Solution,736.1,1,1,1,3a,Caregiver Wellbeing
+Solution,736.2,1,0,1,2a,Info Sources
+Problem,737,*,*,*,*,*
+Solution,737.1,1,1,0,3a,Caregiver Wellbeing
+Problem,738,0,1,1,6c,Symptoms
+Solution,738.1,*,*,*,*,*
+Problem,739,1,1,1,6g,Symptoms
+Solution,739.1,1,1,1,3c,Caregiver Wellbeing
+Solution,739.2,1,1,1,3c,Caregiver Wellbeing
+Solution,739.3,1,1,1,3a,Caregiver Wellbeing
+Problem,740,1,1,1,6a,Symptoms
+Solution,740.1,1,1,1,2a,Info Sources
+Solution,740.2,0,1,1,4b,Strategies to handle the patient
+Problem,741,1,1,0,9c,Doctors and Nursing Homes
+Solution,741.1,1,1,0,3a,Caregiver Wellbeing
+Solution,741.2,1,1,1,8d,Home Care/Nursing Homes
+Problem,742,1,1,1,9e,Doctors and Nursing Homes
+Solution,742.1,1,1,1,1c,Contact Professional For Assitance
+Solution,742.2,1,1,0,3a,Caregiver Wellbeing
+Problem,743,*,*,*,*,*
+Solution,743.1,1,1,1,2a,Info Sources
+Problem,744,0,1,1,6b,Symptoms
+Solution,744.1,*,*,*,*,*
+Problem,745,1,1,1,9e,Doctors and Nursing Homes
+Solution,745.1,1,0,1,1c,Contact Professional For Assitance
+Problem,746,1,1,0,8d,Ethics
+Solution,746.1,*,*,*,*,*
+Problem,747,1,0,1,6a,Symptoms
+Solution,747.1,1,1,1,2a,Info Sources
+Problem,748,1,0,1,9b,Doctors and Nursing Homes
+Solution,748.1,*,*,*,*,*
+Solution,748.2,1,1,0,3c,Caregiver Wellbeing
+Problem,749,1,1,1,6k,Symptoms
+Solution,749.1,1,0,1,1a,Contact Professional For Assitance
+Problem,750,1,1,0,8c,Ethics
+Solution,750.1,*,*,*,*,*
+Problem,751,1,1,1,5g,Legal Financial
+Solution,751.1,1,1,1,2a,Info Sources
+Problem,752,0,1,1,9h,Doctors and Nursing Homes
+Solution,752.1,1,1,0,3a,Caregiver Wellbeing
+Solution,752.2,*,*,*,*,*
+Problem,753,*,*,*,*,*
+Problem,754,*,*,*,*,*
+Solution,754.1,1,1,1,4b,Strategies to handle the patient
+Problem,755,1,1,1,7c,Physical Saftey
+Solution,755.1,*,*,*,*,*
+Problem,756,1,0,1,9h,Doctors and Nursing Homes
+Solution,756.1,1,1,0,8a,Home Care/Nursing Homes
+Problem,757,*,*,*,*,*
+Solution,757.1,1,1,1,3a,Caregiver Wellbeing
+Solution,757.2,1,1,0,3a,Caregiver Wellbeing
+Problem,758,1,0,1,8e,Ethics
+Solution,758.1,0,1,1,3a,Caregiver Wellbeing
+Problem,759,1,0,1,6k,Symptoms
+Solution,759.1,1,0,1,5a,Doctor Consultations
+Problem,760,1,1,1,6b,Symptoms
+Solution,760.1,1,1,1,2a,Info Sources
+Problem,761,*,*,*,*,*
+Solution,761.1,*,*,*,*,*
+Solution,761.2,*,*,*,*,*
+Problem,762,0,1,1,6a,Symptoms
+Solution,762.1,*,*,*,*,*
+Problem,763,1,1,0,1c,Emotions of the Care Giver
+Solution,763.1,1,1,0,3b,Caregiver Wellbeing
+Problem,764,*,*,*,*,*
+Solution,764.1,1,1,1,3a,Caregiver Wellbeing
+Problem,765,*,*,*,*,*
+Solution,765.1,1,0,1,2a,Info Sources
+Problem,766,1,1,1,6f,Symptoms
+Solution,766.1,1,1,1,4f,Strategies to handle the patient
+Problem,767,1,1,1,9e,Doctors and Nursing Homes
+Solution,767.1,1,0,1,1a,Contact Professional For Assitance
+Solution,767.2,0,1,1,8f,Home Care/Nursing Homes
+Problem,768,1,1,1,7d,Physical Saftey
+Solution,768.1,1,0,1,1a,Contact Professional For Assitance
+Problem,769,1,1,0,6d,Symptoms
+Solution,769.1,1,0,1,2a,Info Sources
+Solution,769.2,0,1,1,3b,Caregiver Wellbeing
+Problem,770,1,0,1,9e,Doctors and Nursing Homes
+Solution,770.1,*,*,*,*,*
+Problem,771,1,1,0,4b,Medicines
+Solution,771.1,1,1,1,5e,Doctor Consultations
+Problem,772,1,1,1,3c,Basic Hygiene
+Solution,772.1,*,*,*,*,*
+Solution,772.2,1,0,1,1a,Contact Professional For Assitance
+Problem,773,1,1,1,9i,Doctors and Nursing Homes
+Solution,773.1,0,1,1,1e,Contact Professional For Assitance
+Solution,773.2,1,1,1,3c,Caregiver Wellbeing
+Solution,773.3,1,1,0,3a,Caregiver Wellbeing
+Solution,773.4,1,1,0,3c,Caregiver Wellbeing
+Solution,773.5,*,*,*,*,*
+Problem,774,1,0,1,4a,Medicines
+Solution,774.1,1,1,0,3a,Caregiver Wellbeing
+Problem,775,*,*,*,*,*
+Solution,775.1,*,*,*,*,*
+Problem,776,1,1,0,9a,Doctors and Nursing Homes
+Solution,776.1,*,*,*,*,*
+Problem,777,1,1,1,4b,Medicines
+Solution,777.1,1,1,0,3c,Caregiver Wellbeing
+Problem,778,1,1,0,4b,Medicines
+Solution,778.1,1,1,0,3c,Caregiver Wellbeing
+Problem,779,1,1,0,9a,Doctors and Nursing Homes
+Problem,780,1,1,1,6c,Symptoms
+Solution,780.1,1,0,1,1a,Contact Professional For Assitance
+Problem,781,1,1,0,2d,Conflicts
+Solution,781.1,1,1,1,3a,Caregiver Wellbeing
+Solution,781.2,1,1,0,3a,Caregiver Wellbeing
+Solution,781.3,*,*,*,*,*
+Problem,782,1,1,0,6g,Symptoms
+Solution,782.1,1,1,1,3a,Caregiver Wellbeing
+Solution,782.2,1,0,1,3c,Caregiver Wellbeing
+Problem,783,1,1,1,3a,Basic Hygiene
+Solution,783.1,1,1,1,9b,Personal Care
+Solution,783.2,1,1,0,3a,Caregiver Wellbeing
+Problem,784,1,1,1,1a,Emotions of the Care Giver
+Solution,784.1,0,1,1,3c,Caregiver Wellbeing
+Solution,784.2,1,1,0,3a,Caregiver Wellbeing
+Solution,784.3,1,1,0,3c,Caregiver Wellbeing
+Solution,784.4,1,1,0,3a,Caregiver Wellbeing
+Problem,785,*,*,*,*,*
+Problem,786,1,1,0,10b,General Information
+Solution,786.1,*,*,*,*,*
+Solution,786.2,0,1,1,3c,Caregiver Wellbeing
+Problem,787,0,1,1,5d,Legal Financial
+Solution,787.1,*,*,*,*,*
+Solution,787.2,0,1,1,3a,Caregiver Wellbeing
+Solution,787.3,1,0,1,1c,Contact Professional For Assitance
+Solution,787.4,*,*,*,*,*
+Solution,787.5,1,1,1,1a,Contact Professional For Assitance
+Problem,788,1,1,0,9a,Doctors and Nursing Homes
+Solution,788.1,1,0,1,1c,Contact Professional For Assitance
+Solution,788.2,1,0,1,1a,Contact Professional For Assitance
+Solution,788.3,1,0,1,1a,Contact Professional For Assitance
+Problem,789,1,1,0,5a,Legal Financial
+Solution,789.1,1,1,1,3c,Caregiver Wellbeing
+Solution,789.2,1,1,0,3a,Caregiver Wellbeing
+Solution,789.3,1,1,0,3a,Caregiver Wellbeing
+Problem,790,1,1,1,6b,Symptoms
+Solution,790.1,*,*,*,*,*
+Solution,790.2,0,1,1,1a,Contact Professional For Assitance
+Problem,791,1,0,1,9a,Doctors and Nursing Homes
+Solution,791.1,*,*,*,*,*
+Solution,791.2,1,1,0,3a,Caregiver Wellbeing
+Problem,792,1,1,1,6b,Symptoms
+Solution,792.1,1,1,1,3a,Caregiver Wellbeing
+Solution,792.2,1,0,1,8g,Home Care/Nursing Homes
+Problem,793,1,1,1,9b,Doctors and Nursing Homes
+Solution,793.1,1,0,1,5e,Doctor Consultations
+Solution,793.2,1,0,1,5e,Doctor Consultations
+Solution,793.3,1,1,0,3c,Caregiver Wellbeing
+Problem,794,1,1,0,7d,Physical Saftey
+Solution,794.1,1,0,1,2a,Info Sources
+Solution,794.2,1,1,0,7a,Safety
+Problem,795,*,*,*,*,*
+Solution,795.1,0,1,1,3d,Caregiver Wellbeing
+Problem,796,1,1,1,6b,Symptoms
+Problem,797,1,1,0,10a,General Information
+Solution,797.1,1,1,0,3c,Caregiver Wellbeing
+Solution,797.2,1,1,0,3c,Caregiver Wellbeing
+Problem,798,1,1,1,6k,Symptoms
+Solution,798.1,*,*,*,*,*
+Solution,798.2,*,*,*,*,*
+Solution,798.3,1,1,1,2a,Info Sources
+Problem,799,0,1,1,1b,Emotions of the Care Giver
+Solution,799.1,1,1,0,3a,Caregiver Wellbeing
+Solution,799.2,1,1,1,3c,Caregiver Wellbeing
+Solution,799.3,*,*,*,*,*
+Problem,800,*,*,*,*,*
+Solution,800.1,1,1,1,3a,Caregiver Wellbeing
+Solution,800.2,1,1,1,3a,Caregiver Wellbeing
+Problem,801,1,1,1,5e,Legal Financial
+Solution,801.1,*,*,*,*,*
+Solution,801.2,1,0,1,1e,Contact Professional For Assitance
+Solution,801.3,1,0,1,1e,Contact Professional For Assitance
+Problem,802,*,*,*,*,*
+Solution,802.1,*,*,*,*,*
+Solution,802.2,1,1,0,3c,Caregiver Wellbeing
+Problem,803,*,*,*,*,*
+Solution,803.1,1,1,0,8g,Home Care/Nursing Homes
+Solution,803.2,1,0,1,1a,Contact Professional For Assitance
+Problem,804,1,1,0,6e,Symptoms
+Solution,804.1,1,0,1,2a,Info Sources
+Solution,804.2,*,*,*,*,*
+Problem,805,1,1,1,9f,Doctors and Nursing Homes
+Solution,805.1,*,*,*,*,*
+Problem,806,1,1,0,3c,Basic Hygiene
+Solution,806.1,1,1,1,2a,Info Sources
+Solution,806.2,*,*,*,*,*
+Problem,807,1,1,1,6b,Symptoms
+Solution,807.1,1,0,1,3a,Caregiver Wellbeing
+Problem,808,*,*,*,*,*
+Solution,808.1,1,0,1,2a,Info Sources
+Solution,808.2,*,*,*,*,*
+Problem,809,1,1,1,4a,Medicines
+Solution,809.1,1,1,0,3a,Caregiver Wellbeing
+Solution,809.2,1,0,1,5a,Doctor Consultations
+Problem,810,1,0,1,6j,Symptoms
+Solution,810.1,1,1,0,3a,Caregiver Wellbeing
+Solution,810.2,*,*,*,*,*
+Problem,811,*,*,*,*,*
+Solution,811.1,1,1,0,3a,Caregiver Wellbeing
+Solution,811.2,1,1,1,3a,Caregiver Wellbeing
+Problem,812,*,*,*,*,*
+Solution,812.1,1,0,1,5a,Doctor Consultations
+Problem,813,1,1,1,9h,Doctors and Nursing Homes
+Solution,813.1,1,1,0,3a,Caregiver Wellbeing
+Solution,813.2,1,1,0,3a,Caregiver Wellbeing
+Problem,814,1,1,1,6f,Symptoms
+Solution,814.1,1,1,1,5a,Doctor Consultations
+Solution,814.2,*,*,*,*,*
+Problem,815,1,1,1,6e,Symptoms
+Solution,815.1,0,1,1,5a,Doctor Consultations
+Solution,815.2,1,0,1,5a,Doctor Consultations
+Problem,816,1,1,1,6k,Symptoms
+Solution,816.1,1,1,1,2a,Info Sources
+Solution,816.2,1,1,0,3a,Caregiver Wellbeing
+Problem,817,0,1,1,6a,Symptoms
+Solution,817.1,1,0,1,3a,Caregiver Wellbeing
+Solution,817.2,*,*,*,*,*
+Solution,817.3,1,1,1,2a,Info Sources
+Solution,817.4,*,*,*,*,*
+Problem,818,*,*,*,*,*
+Solution,818.1,*,*,*,*,*
+Problem,819,1,1,1,4b,Medicines
+Solution,819.1,1,0,1,2a,Info Sources
+Solution,819.2,0,1,1,3a,Caregiver Wellbeing
+Solution,819.3,*,*,*,*,*
+Solution,819.4,1,1,0,3c,Caregiver Wellbeing
+Problem,820,1,1,1,6n,Symptoms
+Solution,820.1,1,1,1,2a,Info Sources
+Solution,820.2,1,1,1,5a,Doctor Consultations
+Problem,821,1,1,1,9a,Doctors and Nursing Homes
+Solution,821.1,1,0,1,1a,Contact Professional For Assitance
+Solution,821.2,1,0,1,2a,Info Sources
+Problem,822,*,*,*,*,*
+Solution,822.1,1,1,0,3a,Caregiver Wellbeing
+Solution,822.2,1,0,1,8e,Home Care/Nursing Homes
+Solution,822.3,*,*,*,*,*
+Problem,823,*,*,*,*,*
+Solution,823.1,0,1,1,3a,Caregiver Wellbeing
+Problem,824,1,1,1,6g,Symptoms
+Solution,824.1,*,*,*,*,*
+Solution,824.2,1,1,1,3a,Caregiver Wellbeing
+Problem,825,*,*,*,*,*
+Solution,825.1,0,1,1,6c,Medication
+Solution,825.2,*,*,*,*,*
+Problem,826,1,0,1,6c,Symptoms
+Solution,826.1,0,1,1,3c,Caregiver Wellbeing
+Problem,827,1,1,1,6c,Symptoms
+Problem,828,1,0,1,3a,Basic Hygiene
+Solution,828.1,1,0,1,2a,Info Sources
+Problem,829,*,*,*,*,*
+Solution,829.1,1,1,0,3a,Caregiver Wellbeing
+Solution,829.2,1,1,1,2a,Info Sources
+Problem,830,1,1,0,10b,General Information
+Solution,830.1,*,*,*,*,*
+Solution,830.2,1,0,1,3a,Caregiver Wellbeing
+Problem,831,1,1,1,3a,Basic Hygiene
+Solution,831.1,1,1,0,3c,Caregiver Wellbeing
+Solution,831.2,0,1,1,7a,Safety
+Problem,832,0,1,1,9e,Doctors and Nursing Homes
+Solution,832.1,*,*,*,*,*
+Solution,832.2,1,1,1,1a,Contact Professional For Assitance
+Problem,833,*,*,*,*,*
+Solution,833.1,*,*,*,*,*
+Solution,833.2,*,*,*,*,*
+Solution,833.3,1,1,0,3a,Caregiver Wellbeing
+Problem,834,1,1,1,4a,Medicines
+Solution,834.1,1,1,0,3a,Caregiver Wellbeing
+Problem,835,0,1,1,9a,Doctors and Nursing Homes
+Solution,835.1,*,*,*,*,*
+Problem,836,0,1,1,2d,Conflicts
+Solution,836.1,0,1,1,3a,Caregiver Wellbeing
+Solution,836.2,1,1,1,3a,Caregiver Wellbeing
+Problem,837,*,*,*,*,*
+Solution,837.1,0,1,1,5a,Doctor Consultations
+Solution,837.2,1,1,0,3a,Caregiver Wellbeing
+Problem,838,1,1,0,10b,General Information
+Solution,838.1,1,1,1,2a,Info Sources
+Solution,838.2,*,*,*,*,*
+Problem,839,1,1,1,11a,Solutions
+Solution,839.1,1,1,1,2a,Info Sources
+Problem,840,0,1,1,6n,Symptoms
+Solution,840.1,1,1,1,2a,Info Sources
+Solution,840.2,1,1,0,3c,Caregiver Wellbeing
+Solution,840.3,0,1,1,5a,Doctor Consultations
+Problem,841,*,*,*,*,*
+Solution,841.1,*,*,*,*,*
+Solution,841.2,*,*,*,*,*
+Solution,841.3,1,0,1,2a,Info Sources
+Problem,842,0,1,1,3d,Basic Hygiene
+Solution,842.1,1,1,0,3a,Caregiver Wellbeing
+Solution,842.2,1,0,1,9c,Personal Care
+Problem,843,1,1,0,3c,Basic Hygiene
+Solution,843.1,1,1,0,3a,Caregiver Wellbeing
+Solution,843.2,1,0,1,5a,Doctor Consultations
+Problem,844,1,1,0,7h,Physical Saftey
+Solution,844.1,1,0,1,2a,Info Sources
+Solution,844.2,*,*,*,*,*
+Solution,844.3,1,1,0,3a,Caregiver Wellbeing
+Problem,845,*,*,*,*,*
+Solution,845.1,1,1,1,2a,Info Sources
+Solution,845.2,0,1,1,2a,Info Sources
+Solution,845.3,1,1,0,3a,Caregiver Wellbeing
+Problem,846,1,1,1,4a,Medicines
+Solution,846.1,1,1,1,2a,Info Sources
+Solution,846.2,1,1,1,2a,Info Sources
+Problem,847,1,1,0,9c,Doctors and Nursing Homes
+Solution,847.1,1,1,1,2a,Info Sources
+Solution,847.2,1,1,1,8e,Home Care/Nursing Homes
+Solution,847.3,1,1,0,3a,Caregiver Wellbeing
+Problem,848,0,1,1,6l,Symptoms
+Solution,848.1,1,1,1,3a,Caregiver Wellbeing
+Solution,848.2,1,1,1,3a,Caregiver Wellbeing
+Solution,848.3,*,*,*,*,*
+Problem,849,*,*,*,*,*
+Solution,849.1,1,1,0,3c,Caregiver Wellbeing
+Problem,850,1,1,0,10b,General Information
+Solution,850.1,1,1,0,3a,Caregiver Wellbeing
+Solution,850.2,1,1,0,3a,Caregiver Wellbeing

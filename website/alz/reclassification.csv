@@ -1,0 +1,151 @@
+Problems,
+P1,Emotions of the Care Giver
+a,"Needs emotional support, needs to vent out, be listended to"
+b,Stress
+c,Worry
+d,Guilt
+P2,Conflicts
+a,Conflict of opinion with family about care of patient
+b,Sharing Responsibilities
+c,Unwillingness of patient to change
+d,Convincing Family/Patient of their Alzhimers condition and care needed
+e,Feelings of distrust from patient
+,
+P3,Basic Hygiene
+a,Showering
+b,Changing clothes
+c,"Incontinence, using adult diapers"
+d,issues using the toilet
+e,Sorting clean from dirty
+f,Issues with home cleanliness
+g,"Personal Grooming (Shaving, haircut)"
+,
+P4,Medicines
+a,Information about certain medicines
+b,Medication for particular symptoms
+,
+P5,Legal Financial
+a,"Protecting patient from scammers (family, or external)"
+b,legal solutions for being expelled from a nursing home
+c,Questions about Medicaid
+d,"Need to cut costs (financial aid, low cost options)"
+e,Power of Attorney
+f,Elder Abuse
+g,Handling Finances of Patient
+h,Need legal representation for patient
+i,When to involve police
+,
+P6,Symptoms
+a,"Hallucinations, fears"
+b,"Abnormal sleeping habits (insomnia, oversleeping)"
+c,"Abnormal eating habits (not eating enough, eating too much)"
+d,Anxiety
+e,Understanding if behavior is normal/abnormal for patient (common/uncommon)
+f,"Disorientation about time period or events, memory loss (thinking people are alive when they are deceased)"
+g,"Repetitive behavior, OCD, figiting, overactivity"
+h,"Inactivity, lethargic, immobile"
+i,Communication problems: patient to caregiver & vice versa
+j,"Attention seeking behavior: yelling, calling often, faking symptoms"
+k,"Hostility, anger, verbal abuse"
+l,Patient's inability to carry out simple tasks 
+m,Does a symptopm indicate alz/demensia
+n,Unusual behavior
+o,Agitaion/confusion
+p,is this symptom/side effect cause by medication
+,
+P7,Physical Saftey
+a,"Roaming behavior, Nocturnal activity"
+b,Dangerous Objects in the house
+c,Vehicle safety
+d,"Information about safety devices (movement alarms, GPS trackers, child-proofing, safe clothing, medication dispension)"
+e,Remodeling living quarters for safety
+f,Doctor/Hospital Visit Safety
+g,Partient doesn't follow safety instructions (with walkers or just generally)
+h,Patient is physically aggressive (or desctructive)
+,
+P8,Ethics
+a,Taking control of the patient's life (should the patient's permission be sought)
+b,"Working/associating with a person with ALZ (underperformance at work, etc.)"
+c,Conveying sensitive Information (death of a loved one)
+d,Should the patient be told they have ALZ/demensia?
+e,Telling close family about a patient's condition
+f,Telling strangers about a patient's condition
+g,Handling negative reactions to certain family members (disturbed/ throws tantrums after seeing certain people)
+h,"Ethics about nursing home procedures (sedating, etc)"
+i,Ethics about misleading the patient
+,
+P9,Doctors and Nursing Homes
+a,Finding the right treatment/care Facilities
+b,"Issues with doctors (long waiting periods for diagnosis, not enough info shared, inconsistency, etc)"
+c,"Issues with Nursing homes (can't provide adequate, appropriate care)"
+d,Costs of treatment/care
+e,In Home Care
+f,When to move to nursing home/hospice?
+g,Extent  to which investigation of condition should be carried out
+h,Issues adjusting and transitioning to additional care (in nursing homes and with at home care)
+i,Issues with long distance caregiving
+,
+P10,General Information
+a,"Information about what to expect (stages of disease/symtoms (UTI), sundowning)"
+b,Trying to find Novel solutions
+,
+P11,Solutions
+a,Offering Solution for others consideration
+,
+Solutions,
+S1,Contact Professional For Assitance
+a,Helpine
+b,Social Worker
+c,Office of Aging
+d,Elder Law Attourney
+e,Obtain POA
+f,Police
+,
+S2,Info Sources
+a,"Books/Videos/Websites (Naomi Feil, Teepa Snaow, Alz.org, caregiver froum)"
+,
+S3,Caregiver Wellbeing
+a,Offer an opinion/advice
+b,Offer sympathy/empathy
+c,Sharing personal experience
+d,Encouragement/emotional support
+,
+S4,Strategies to handle the patient
+a,Bribery
+b,Validation
+c,Confiscation
+d,"Misdirection (of patient, not telling patient they have ALZ/dimensia)"
+e,Steady routine
+f,"Suggestions for memory problems (old pictures, only mentiong loved ones once)"
+,
+S5,Doctor Consultations
+a,"consult doctor on symptoms/medications/etc. (anxiety, depression, THC, timing of hospice)"
+b,Process for Diagnosis
+d,Advice on doctors visits
+e,Contact Specialist (good doctors are worth the time)
+,
+S6,Medication
+a,Diagnosis is important for medication
+b,Change in medication should be suggested by doctor
+c,Monitor paients intake of medication
+,
+S7,Safety
+a,"Suggestions for safety (locks, alarms, GPS, possessions/confiscating, driving)"
+b,Caregiver safety should be considered
+c,Find aggressive triggers
+,
+S8,Home Care/Nursing Homes
+a,Nursing homes/Caregivers should use Validation Method
+b,"Care Facilities should have sepcialized care (Memory care unit, continuous care, dimensia unit)"
+c,Paients should be moved to care if unable to live alone
+d,"If a nursing home cannot care for patient, they should be moved"
+e,"Research Facilities (check for sedation procedures,etc)"
+f,Part time in home caregiving is available 
+g,Adult day care
+h,Suggestions for Institutions
+,
+S9,Personal Care
+a,Use barbershop/outside help for some personal care
+b,"Use dry shampoo, babywipes"
+c,"Use depends. Pull-ups, plastic covering"
+d,Assisting patient while performing care (showing/shaving)
